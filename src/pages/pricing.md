@@ -74,7 +74,7 @@ sections:
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
           eget velit.
       - type: faq_item
-        question: Sed scelerisque in ipsum eu sollicitudin?
+        question: Fråga tre?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit

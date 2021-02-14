@@ -107,8 +107,8 @@ sections:
     background: gray
 seo:
   type: stackbit_page_meta
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: Shopanalytics landing
+  description: kampanj butik insikter
   extra:
     - name: og:type
       value: website

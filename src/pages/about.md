@@ -4,7 +4,7 @@ subtitle: >-
   Shop Analytics är en SaaS tjänst som tillhandahålls av Anavid. Anavid
   grundades 2017.
 image: /images/anavid-1.png
-image_alt: 'Grundarna till '
+image_alt: 'Grundarna till ics och '
 seo:
   type: stackbit_page_meta
   title: About Us

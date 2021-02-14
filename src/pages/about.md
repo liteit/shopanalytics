@@ -36,3 +36,5 @@ template: page
 ---
 Ahmed har en lång och bred arefarenhet av bildigenkänning och mjukvara. Numer doktor inom AI med videoanalys som specialitet. 
 
+David Nillson har en marknadschefsbakgrund.
+

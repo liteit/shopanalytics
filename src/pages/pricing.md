@@ -63,11 +63,11 @@ sections:
     background: gray
     faq_items:
       - type: faq_item
-        question: Hur betalar
+        question: Hur Betalning
         answer: |
           Tjänsten faktureras månadsvis i efterhand. 
       - type: faq_item
-        question: Aliquam eget purus ante?
+        question: 'Var '
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque

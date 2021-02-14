@@ -28,7 +28,7 @@ sections:
         options:
           - Intresserad av tjänsten
           - Intresserad av partnerskap
-          - Övrigt
+          - 'Övrigt '
       - type: form_field
         input_type: textarea
         name: message

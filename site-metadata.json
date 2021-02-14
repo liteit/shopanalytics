@@ -16,7 +16,7 @@
             },
             {
                 "type": "action",
-                "label": "Features",
+                "label": "Lösning",
                 "url": "/features",
                 "style": "link"
             },

@@ -23,7 +23,7 @@ sections:
             style: secondary
       - type: pricing_plan
         title: Premium
-        subtitle: För mindre kedjor med fler kameror
+        subtitle: För mindre kedjor och per per butik
         price: 1995/m
         details: |
           *   Analys från två kameror

@@ -59,7 +59,7 @@ sections:
   - type: section_faq
     section_id: faq
     title: Frågor och svar
-    subtitle: Hur
+    subtitle: 'Vi svarar på några vanliga frågor, kontakta oss vid ytterligare frågor.'
     background: gray
     faq_items:
       - type: faq_item

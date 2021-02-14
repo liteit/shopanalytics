@@ -59,7 +59,7 @@ sections:
   - type: section_faq
     section_id: faq
     title: Frågor och svar
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: Hur
     background: gray
     faq_items:
       - type: faq_item

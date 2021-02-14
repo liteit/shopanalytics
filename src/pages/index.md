@@ -75,7 +75,7 @@ sections:
             icon_position: right
   - type: section_reviews
     section_id: reviews
-    title: Testimonials
+    title: Vad säger våra kunder?
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
@@ -87,7 +87,8 @@ sections:
         avatar_alt: Eric Widget's photo
         content: >-
           Med Shop Analyics har vi fått en bättre bild över våra besökare och
-          hur våra aktiviteter påverkar besöken i butiken.
+          hur våra aktiviteter påverkar besöken i butiken. En sån här effektiv
+          lösning kom inte en dag för sent
       - type: review_item
         author: Mia Berlin
         avatar: images/review2.jpg

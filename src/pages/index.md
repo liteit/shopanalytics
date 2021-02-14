@@ -23,7 +23,7 @@ sections:
     type: section_content
   - type: section_features
     section_id: features
-    title: Var adderar Shop Analytics ett värde?
+    title: Vad sägs om att aktivera era dolda tillgångar!?
     subtitle: >-
       Butiker använder Shop Analytics för att få svar, ta informerade beslut
       baserat på fakta istället för på antaganden med syfte att förbättra sin

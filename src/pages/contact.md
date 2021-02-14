@@ -12,7 +12,7 @@ sections:
       - type: form_field
         input_type: text
         name: name
-        label: Name
+        label: Namn
         is_required: true
       - type: form_field
         input_type: email

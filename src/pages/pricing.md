@@ -14,7 +14,7 @@ sections:
         details: |
           *   Analys från en kamera
           *   Antal besökare
-          *   Fördelning mellan Kön 
+          *   Fördelning mellan kön
           *   Åldersfördelning
         actions:
           - type: action

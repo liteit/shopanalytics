@@ -120,7 +120,7 @@
             },
             {
                 "type": "footer_form",
-                "title": "Subscribe",
+                "title": "Nyhetsbrev",
                 "content": "Stay up to date with our latest developments.",
                 "form_id": "contactForm",
                 "hide_labels": true,

@@ -10,7 +10,7 @@ sections:
       - type: pricing_plan
         title: Basic
         subtitle: För små butiker med en kamera
-        price: 1495/m
+        price: 1295/m
         details: |
           *   Analys från en kamera
           *   Antal besökare

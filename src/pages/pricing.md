@@ -45,6 +45,7 @@ sections:
         price: Offert
         details: |
           *   Analys från kamerasystem
+          *   Analys mellan olika butiker
           *   Antal besökare
           *   Fördelning mellan kön
           *   Åldersfördelning

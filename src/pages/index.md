@@ -25,8 +25,9 @@ sections:
     section_id: features
     title: Var adderar Shop Analytics ett värde?
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Butiker använder Shop Analytics för att få svar, ta informerade beslut
+      baserat på fakta istället för på antaganden med syfte att förbättra sin
+      affär och kundupplevelse.
     background: gray
     features:
       - type: feature_item

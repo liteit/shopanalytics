@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: section_content
     section_id: features
-    title: T
+    title: Möt framtiden med butik 2.0 där realtids insikter gör skillnad
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum

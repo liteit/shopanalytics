@@ -24,7 +24,7 @@ sections:
         input_type: select
         name: subject
         label: Ärende
-        default_value: Please select
+        default_value: Val
         options:
           - Intresserad av tjänsten
           - Intresserad av partnerskap

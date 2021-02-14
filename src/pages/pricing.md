@@ -24,7 +24,7 @@ sections:
       - type: pricing_plan
         title: Premium
         subtitle: För mindre kedjor med fler kameror
-        price: $49/m
+        price: 1995/m
         details: |
           *   Analys från två kameror
 

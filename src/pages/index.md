@@ -12,7 +12,7 @@ sections:
         label: Learn More
         url: /features
         style: primary
-  - section_id: lorem-ipsum
+  - section_id: contentsection
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum

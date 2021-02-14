@@ -58,7 +58,7 @@ sections:
             style: secondary
   - type: section_faq
     section_id: faq
-    title: Frequently Asked Questions
+    title: Frågor och svar
     subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     background: gray
     faq_items:

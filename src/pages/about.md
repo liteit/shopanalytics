@@ -1,8 +1,7 @@
 ---
-title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+title: About Us today
+subtitle: This is an optional subtitle. It can be used to describe what this
+  page is about.
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
@@ -10,26 +9,26 @@ seo:
   title: About Us
   description: This is the about page
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: About Us
       keyName: property
-    - name: 'og:description'
+    - name: og:description
       value: This is the about page
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/about.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: About Us
-    - name: 'twitter:description'
+    - name: twitter:description
       value: This is the about page
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/about.jpg
       relativeUrl: true
 template: page

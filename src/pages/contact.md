@@ -26,7 +26,7 @@ sections:
         label: Ärende
         default_value: Please select
         options:
-          - Error on the site
+          - Fel på sidan
           - Sponsorship
           - Other
       - type: form_field

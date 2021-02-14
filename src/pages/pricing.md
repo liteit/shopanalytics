@@ -39,7 +39,7 @@ sections:
             style: primary
       - type: pricing_plan
         title: Enterprise
-        subtitle: For very large businesses
+        subtitle: För stora kedjor
         price: $149/m
         details: |-
           * Vestibulum non eros quis

@@ -112,16 +112,16 @@ sections:
         label: Get Started
         url: /signup
         style: primary
-  - type: section_posts
-    section_id: recent-posts
-    title: Latest Posts
-    background: gray
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
     pricing_plans: []
     type: section_pricing
+  - type: section_posts
+    section_id: recent-posts
+    title: Latest Posts
+    background: gray
 seo:
   type: stackbit_page_meta
   title: Shopanalytics landing

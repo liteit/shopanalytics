@@ -28,7 +28,7 @@ sections:
         options:
           - Fel på sidan
           - Partnerskap
-          - Other
+          - Övrigt
       - type: form_field
         input_type: textarea
         name: message

@@ -97,7 +97,7 @@ sections:
           om kunderna, men med Shop Analytics har vi fått bättre verktyg att
           planera utifrån.
       - type: review_item
-        author: Jonquil Von Haggerston
+        author: Peter Josefsson
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-

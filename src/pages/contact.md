@@ -4,8 +4,9 @@ sections:
   - type: section_contact
     section_id: contact
     title: Kontakta oss
-    content: |
-      Vi återkommer så snart vi kan
+    content: >
+      Tack för ett visat intresse. Vi återkommer så snart vi kan och uppgifter
+      används enbart i syfte att hjälpa er, ingen tredje part tar del av dessa. 
     background: gray
     form_id: contactForm
     form_fields:

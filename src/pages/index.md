@@ -57,10 +57,12 @@ sections:
             icon_position: right
       - type: feature_item
         title: 'Är det köbildning, hålls avstånd eller används ansiktsmask?'
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Vi kan tolka kön vid kassan och notifiera personal automatiskt vid
+          köbildning eller när avstånd i kön understiger 1m. Vi har inget
+          obligatoriskt masktvång i Sverige, men funktionen kan illustrera vilka
+          möjligheter som finns med Shop Analytics platform för att bli mer
+          proaktiv och skapa en bättre kundupplevelse,
         image: images/feature3.png
         image_alt: App user profile preview
         actions:

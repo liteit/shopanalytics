@@ -4,10 +4,8 @@ sections:
   - type: section_contact
     section_id: contact
     title: Kontakta oss
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: |
+      Vi återkommer så snart vi kan
     background: gray
     form_id: contactForm
     form_fields:

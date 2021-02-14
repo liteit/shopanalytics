@@ -36,7 +36,7 @@ sections:
         input_type: checkbox
         name: consent
         label: >-
-          IJag förstår att detta formulär spara min information så jag kan bli
+          Jag förstår att detta formulär sparar mina uppgifter så jag kan bli
           kontaktad
         is_required: true
     submit_label: Send Message

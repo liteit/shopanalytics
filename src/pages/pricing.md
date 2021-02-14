@@ -11,11 +11,11 @@ sections:
         title: Basic
         subtitle: För små butiker med en kamera
         price: 1495/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   Analys från en kamera
+          *   Antal besökare
+          *   Fördelning mellan Kön 
+          *   Åldersfördelning
         actions:
           - type: action
             label: Order Now

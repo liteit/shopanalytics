@@ -3,8 +3,8 @@ title: 'Amazon har lanserat i Sverige, hot eller möjlighet?'
 date: '2020-04-22'
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
-  Trenden är tydligt, mer och mer säljs online och omni kanal kan skapa
-  marknadsfördelar
+  Trenden är tydligt, mer och mer säljs online men Amazons lansering blev inte
+  vad många trodde, inte ännu i alla fall
 image: images/9.jpg
 image_alt: People in a conference room
 thumb_image: images/9_thumb.jpg

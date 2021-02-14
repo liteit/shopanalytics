@@ -22,7 +22,7 @@ sections:
             url: /signup
             style: secondary
       - type: pricing_plan
-        title: Premium
+        title: Professional
         subtitle: För mindre kedjor och per per butik
         price: 1995/m
         details: |

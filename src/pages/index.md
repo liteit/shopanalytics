@@ -21,6 +21,7 @@ sections:
     background: white
     actions: []
     type: section_content
+    image: /images/Screenshot 2021-02-15 at 00.37.50.png
   - type: section_features
     section_id: features
     title: Features

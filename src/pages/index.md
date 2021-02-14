@@ -38,7 +38,7 @@ sections:
             icon_position: right
         title: Hur många besöker butiken just nu eller över tid?
       - type: feature_item
-        title: Awesome Feature of Your Services
+        title: Vilka är på besök och när?
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet

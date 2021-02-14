@@ -17,7 +17,7 @@ sections:
       - type: form_field
         input_type: email
         name: email
-        label: Email
+        label: Epost
         is_required: true
       - type: form_field
         input_type: select

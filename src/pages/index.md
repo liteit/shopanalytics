@@ -113,7 +113,7 @@ sections:
         url: /signup
         style: primary
   - section_id: pricing-section
-    title: lorem-ipsum
+    title: Pricing
     subtitle: lorem-ipsum
     background: gray
     pricing_plans: []

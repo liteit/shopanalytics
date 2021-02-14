@@ -6,7 +6,7 @@ sections:
     title: Priser
     subtitle: >-
       Det skall vara enkelt att komma igång, därför har vi en lösning som är
-      prissatt per butik ovh börjar med en kamera.
+      prissatt per butik och börjar med en kamera.
     background: gray
     pricing_plans:
       - type: pricing_plan

@@ -1,5 +1,5 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: 'Amazon har lanserat i Sverige, hot eller möjlighet?'
 date: '2020-04-22'
 author: src/data/authors/jane-doe.yaml
 excerpt: >-

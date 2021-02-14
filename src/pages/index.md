@@ -112,7 +112,7 @@ sections:
         label: Get Started
         url: /signup
         style: primary
-  - section_id: lorem-ipsum
+  - section_id: pricing-section
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray

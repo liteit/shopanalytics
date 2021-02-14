@@ -28,12 +28,6 @@
             },
             {
                 "type": "action",
-                "label": "Style Guid",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Sign Up",
                 "url": "/signup",
                 "style": "primary"

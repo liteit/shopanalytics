@@ -16,9 +16,9 @@ sections:
     section_id: features
     title: Vad sägs om att aktivera era dolda tillgångar!?
     subtitle: >-
-      Butiker använder Shop Analytics för att få svar, ta informerade beslut
-      baserat på fakta istället för på antaganden med syfte att förbättra sin
-      affär och kundupplevelse.
+      Använd Shop Analytics för att få svar, ta informerade beslut baserat på
+      fakta istället för på antaganden med syfte att förbättra er affär och
+      kundupplevelse.
     background: gray
     features:
       - type: feature_item

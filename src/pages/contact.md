@@ -39,7 +39,7 @@ sections:
           Jag förstår att detta formulär sparar mina uppgifter så jag kan bli
           kontaktad
         is_required: true
-    submit_label: Send Message
+    submit_label: Skicka
 seo:
   type: stackbit_page_meta
   title: Contact

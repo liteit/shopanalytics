@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - type: pricing_plan
         title: Basic
-        subtitle: For small businesses
+        subtitle: För små butiker
         price: 1495/m
         details: |-
           * Lorem ipsum dolor sit amet

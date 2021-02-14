@@ -25,9 +25,14 @@ sections:
         title: Premium
         subtitle: För mindre kedjor med fler kameror
         price: $49/m
-        details: >
-          *   *   *   Analys från två kameror*   Antal besökare*   Fördelning
-          mellan Kön*   Åldersfördelning
+        details: |
+          *   Analys från två kameror
+
+          *   Antal besökare
+
+          *   Fördelning mellan Kön
+
+          *   Åldersfördelning
         highlight: true
         actions:
           - type: action

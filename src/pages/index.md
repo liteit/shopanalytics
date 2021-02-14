@@ -9,7 +9,7 @@ sections:
     image_alt: App preview
     actions:
       - type: action
-        label: Learn More
+        label: Läs Mer
         url: /features
         style: primary
   - type: section_features

@@ -83,6 +83,17 @@ sections:
     background: white
     actions: []
     type: section_content
+  - type: section_cta
+    section_id: call-to-action
+    title: 'Vi älskar att visa, utmana oss'
+    subtitle: >-
+      Vi demar gärna utan förpliktelser och är genuint intresserad av din
+      feedback
+    actions:
+      - type: action
+        label: Boka Demo
+        url: /signup
+        style: primary
   - type: section_reviews
     section_id: reviews
     title: Vad säger våra kunder?
@@ -115,17 +126,6 @@ sections:
           Vår onlineförsäljning och våra annonser har vi haft koll på, men
           kopplingen till butik har varit svår att följa upp. Nu har vi tillgång
           till insikter som hjälper oss utvärdera effektivt.
-  - type: section_cta
-    section_id: call-to-action
-    title: 'Vi älskar att visa, utmana oss'
-    subtitle: >-
-      Vi demar gärna utan förpliktelser och är genuint intresserad av din
-      feedback
-    actions:
-      - type: action
-        label: Boka Demo
-        url: /signup
-        style: primary
   - type: section_posts
     section_id: recent-posts
     title: Latest Posts

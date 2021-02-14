@@ -77,8 +77,8 @@ sections:
     section_id: reviews
     title: Vad säger våra kunder?
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      Vi har frågat om de skulle rekommendera Shop Analytics och vad det
+      uppskattar med lösningen
     background: white
     reviews:
       - type: review_item

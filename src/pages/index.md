@@ -117,7 +117,7 @@ sections:
           till insikter som hjälper oss utvärdera effektivt.
   - type: section_cta
     section_id: call-to-action
-    title: 'Vi älskar att visa, utmana oss'
+    title: 'Vi älskar demo, utmana oss'
     subtitle: >-
       Vi demar gärna utan förpliktelser och är genuint intresserad av din
       feedback

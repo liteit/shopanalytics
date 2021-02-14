@@ -23,7 +23,7 @@ sections:
             style: secondary
       - type: pricing_plan
         title: Premium
-        subtitle: För mindre kedjor
+        subtitle: För mindre kedjor med fler kameror
         price: $49/m
         details: |-
           * Curabitur non nunc mollis

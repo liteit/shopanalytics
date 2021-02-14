@@ -112,7 +112,7 @@ sections:
       feedback
     actions:
       - type: action
-        label: Get Started
+        label: Boka Demo
         url: /signup
         style: primary
   - type: section_posts

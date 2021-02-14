@@ -35,7 +35,9 @@ sections:
       - type: form_field
         input_type: checkbox
         name: consent
-        label: I understand that this form is storing my submitted information so I
+        label: >-
+          IJag förstår att detta formulär spara min information så jag kan bli
+          kontaktad
         is_required: true
     submit_label: Send Message
 seo:

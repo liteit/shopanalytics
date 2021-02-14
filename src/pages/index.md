@@ -89,7 +89,7 @@ sections:
           Med Shop Analyics har vi fått en bättre bild över våra besökare och
           hur våra aktiviteter påverkar besöken i butiken.
       - type: review_item
-        author: Parsley Montana
+        author: Mia Berlin
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-

@@ -13,7 +13,7 @@ sections:
         url: /features
         style: primary
   - section_id: contentsection
-    title: lorem-ipsum
+    title: Att känna kunden gör skillnad
     content: >-
       ## Lorem ipsum
 

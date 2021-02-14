@@ -12,15 +12,6 @@ sections:
         label: Learn More
         url: /features
         style: primary
-  - section_id: contentsection
-    title: Att känna kunden gör skillnad
-    content: >
-      > Ingen personlig data sparas på individnivå, endast anonymiserad och
-      aggregerad data
-    image_alt: knowcustoner
-    background: white
-    actions: []
-    type: section_content
   - type: section_features
     section_id: features
     title: Vad sägs om att aktivera era dolda tillgångar!?
@@ -83,6 +74,15 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+  - section_id: contentsection
+    title: Att känna kunden gör skillnad
+    content: >
+      > Ingen personlig data sparas på individnivå, endast anonymiserad och
+      aggregerad data
+    image_alt: knowcustoner
+    background: white
+    actions: []
+    type: section_content
   - type: section_reviews
     section_id: reviews
     title: Vad säger våra kunder?

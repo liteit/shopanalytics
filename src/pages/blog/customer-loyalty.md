@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: 'Videoanalys skapar nya möjligheter, men vad gäller kring personlig integritet?'
 subtitle: A story about customer loyalty
 date: '2021-01-03'
 author: src/data/authors/jane-doe.yaml

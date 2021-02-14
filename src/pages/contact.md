@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Fel på sidan
-          - Sponsorship
+          - Sp
           - Other
       - type: form_field
         input_type: textarea

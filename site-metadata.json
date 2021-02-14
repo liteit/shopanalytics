@@ -121,7 +121,7 @@
             {
                 "type": "footer_form",
                 "title": "Nyhetsbrev",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Håll dig uppdatera med det senaste\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [

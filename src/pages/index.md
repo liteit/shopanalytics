@@ -39,10 +39,12 @@ sections:
         title: Hur många besöker butiken just nu eller över tid?
       - type: feature_item
         title: Vilka är på besök och när?
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Stämmer faktiska besök med er annonsering och antaganden kring
+          målgrupp? Vad kan ni förändra för att optimera konverteringen i butik?
+          Med Shop Analyics får ni bättre insikter kring ålder samt kön och
+          vilka tider där extra personal kan bidra till en bättre kundupplevelse
+          och mer försäljning.
         image: images/feature2.png
         image_alt: App users welcoming a new member
         actions:

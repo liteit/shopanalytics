@@ -63,7 +63,7 @@ sections:
     background: gray
     faq_items:
       - type: faq_item
-        question: Hur Betalning
+        question: Hur och när tar ni betalt?
         answer: |
           Tjänsten faktureras månadsvis i efterhand. 
       - type: faq_item

@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: section_pricing
     section_id: pricing
-    title: Pricing Plans
+    title: Priser
     subtitle: You can have a separate pricing page or list everything on the home page.
     background: gray
     pricing_plans:

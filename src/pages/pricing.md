@@ -30,7 +30,7 @@ sections:
 
           *   Antal besökare
 
-          *   Fördelning mellan Kön
+          *   Fördelning mellan kön
 
           *   Åldersfördelning
         highlight: true

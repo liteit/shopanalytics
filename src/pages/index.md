@@ -68,7 +68,7 @@ sections:
         image_alt: App user profile preview
         actions:
           - type: action
-            label: Läs Mer
+            label: Läs mer
             url: /features
             style: secondary
             has_icon: true

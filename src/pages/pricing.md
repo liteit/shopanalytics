@@ -64,8 +64,9 @@ sections:
     faq_items:
       - type: faq_item
         question: Hur och när tar ni betalt?
-        answer: |
-          Tjänsten faktureras månadsvis i efterhand. 
+        answer: >
+          Tjänsten faktureras månadsvis i efterhand. Anavid förbehåller sig rätt
+          att samarbetspartner fakturerar lokalt för tjänsten i SEK.  
       - type: faq_item
         question: 'Var '
         answer: >-

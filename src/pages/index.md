@@ -100,7 +100,7 @@ sections:
     subtitle: >-
       Vi har frågat om de skulle rekommendera Shop Analytics och vad som
       uppskattas med lösningen
-    background: white
+    background: gray
     reviews:
       - type: review_item
         author: Lars Olsson

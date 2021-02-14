@@ -23,7 +23,7 @@ sections:
             style: secondary
       - type: pricing_plan
         title: Premium
-        subtitle: For medium-sized businesses
+        subtitle: För mindre kedjor
         price: $49/m
         details: |-
           * Curabitur non nunc mollis

@@ -4,7 +4,9 @@ sections:
   - type: section_pricing
     section_id: pricing
     title: Priser
-    subtitle: 'Det skall vara enkelt att komma igång, därför har vi en lösning som'
+    subtitle: >-
+      Det skall vara enkelt att komma igång, därför har vi en lösning som är
+      prissatt per butik ovh börjar med en kamera.
     background: gray
     pricing_plans:
       - type: pricing_plan

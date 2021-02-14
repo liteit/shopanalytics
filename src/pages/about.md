@@ -1,8 +1,8 @@
 ---
 title: Om Anavid
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  Shop Analytics är en SaaS tjänst som tillhandahålls av Anavid. Anavid
+  grundades 2017.
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:

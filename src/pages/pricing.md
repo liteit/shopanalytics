@@ -43,11 +43,11 @@ sections:
         title: Enterprise
         subtitle: För stora kedjor
         price: Offert
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   Analys från kamerasystem
+          *   Antal besökare
+          *   Fördelning mellan kön
+          *   Åldersfördelning
         actions:
           - type: action
             label: Order Now

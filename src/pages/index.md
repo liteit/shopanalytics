@@ -15,7 +15,7 @@ sections:
   - section_id: contentsection
     title: Att känna kunden gör skillnad
     content: >
-      ## Ingen personlig data sparas på individnivå, endast anonymiserad och
+      > Ingen personlig data sparas på individnivå, endast anonymiserad och
       aggregerad data
     image_alt: lorem-ipsum
     background: white

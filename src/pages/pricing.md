@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - type: pricing_plan
         title: Basic
-        subtitle: För små butiker
+        subtitle: För små butiker med en kamera
         price: 1495/m
         details: |-
           * Lorem ipsum dolor sit amet

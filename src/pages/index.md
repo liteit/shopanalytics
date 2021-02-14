@@ -82,27 +82,28 @@ sections:
     background: white
     reviews:
       - type: review_item
-        author: Eric Widget
+        author: Lars Olsson
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Med Shop Analyics har vi fått en bättre bild över våra besökare och
+          hur våra aktiviteter påverkar besöken i butiken.
       - type: review_item
         author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          Vår personal är fantastisk, de har ofta en känsla för hur vi tar hand
+          om kunderna, men med Shop Analytics har vi fått bättre verktyg att
+          planera utifrån.
       - type: review_item
         author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Vi har haft stenkoll på vår onlineförsäljnigin och våra annonser, men
+          kopplingen till butik har varit svår att förlja upp. Nu har vi
+          tillgågn till affärsdata som hjälper oss utvärdera vår marknadsföring
   - type: section_cta
     section_id: call-to-action
     title: This Is Call To Action Block!

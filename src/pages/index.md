@@ -106,7 +106,7 @@ sections:
           tillgågn till affärsdata som hjälper oss utvärdera vår marknadsföring
   - type: section_cta
     section_id: call-to-action
-    title: 'Vi älskar att dema, utmana oss'
+    title: 'Vi älskar att visa, utmana oss'
     subtitle: This is an optional description for the call to action block.
     actions:
       - type: action

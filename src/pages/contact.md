@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Intresserad av tjänsten
-          - Partnerskap
+          - Intresserad av partnerskap
           - Övrigt
       - type: form_field
         input_type: textarea

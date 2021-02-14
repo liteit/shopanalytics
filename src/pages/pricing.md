@@ -4,7 +4,7 @@ sections:
   - type: section_pricing
     section_id: pricing
     title: Priser
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: 'Det skall vara enkelt att komma igång, därför har vi en lösning som'
     background: gray
     pricing_plans:
       - type: pricing_plan

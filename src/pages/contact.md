@@ -26,7 +26,7 @@ sections:
         label: Ärende
         default_value: Please select
         options:
-          - Fel på sidan
+          - null
           - Partnerskap
           - Övrigt
       - type: form_field

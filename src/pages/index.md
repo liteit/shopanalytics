@@ -30,7 +30,6 @@ sections:
     background: white
     actions: []
     type: section_content
-    image: /images/spectacular-sparrow.png
   - type: section_features
     section_id: features
     title: Features

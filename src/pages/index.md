@@ -17,7 +17,7 @@ sections:
     content: >
       > Ingen personlig data sparas på individnivå, endast anonymiserad och
       aggregerad data
-    image_alt: lorem-ipsum
+    image_alt: knowcustoner
     background: white
     actions: []
     type: section_content

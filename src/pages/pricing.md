@@ -22,7 +22,7 @@ sections:
             url: /signup
             style: secondary
       - type: pricing_plan
-        title: Professional
+        title: Premium
         subtitle: For medium-sized businesses
         price: $49/m
         details: |-

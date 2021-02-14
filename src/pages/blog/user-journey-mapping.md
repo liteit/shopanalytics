@@ -6,8 +6,8 @@ subtitle: >-
 date: '2019-03-27'
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+  Konvertering online är noga planerad och resultat mäts löpande mot riktag
+  annonsering. Men tänk om fysiska butiker hade samma verktyg?
 image: images/10.jpg
 image_alt: Business people in a meeting
 thumb_image: images/10_thumb.jpg

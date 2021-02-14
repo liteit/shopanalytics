@@ -15,17 +15,8 @@ sections:
   - section_id: contentsection
     title: Att känna kunden gör skillnad
     content: >
-      ## Ingen personlig data sparas på individnivå, endast anonymiserad &
-      aggregerad data.
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
+      ## Ingen personlig data sparas på individnivå, endast anonymiserad och
+      aggregerad data
     image_alt: lorem-ipsum
     background: white
     actions: []

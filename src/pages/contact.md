@@ -5,8 +5,8 @@ sections:
     section_id: contact
     title: Kontakta oss
     content: >
-      Vi återkommer så snart vi kan och notera att uppgifter endast används i
-      syfte att hjälpa er, ingen tredje part tar del av dessa.
+      Vi återkommer så snart vi kan och uppgifter används endast i syfte att
+      hjälpa er, ingen tredje part tar del av dessa.
     background: gray
     form_id: contactForm
     form_fields:

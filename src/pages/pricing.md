@@ -10,7 +10,7 @@ sections:
       - type: pricing_plan
         title: Basic
         subtitle: For small businesses
-        price: $5/m
+        price: 1495/m
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt

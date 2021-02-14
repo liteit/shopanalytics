@@ -21,10 +21,11 @@ sections:
     background: gray
     features:
       - type: feature_item
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Vår enklaste och intuitivaste insikt är antalet besök, jämför mellan
+          era butiker eller över tid. Shop Analytics identifierar personer som
+          går in och sedan ut och presenterar hur många som just nu är i
+          butiken.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         actions:

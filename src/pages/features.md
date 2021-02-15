@@ -40,7 +40,7 @@ sections:
     actions:
       - type: action
         label: Boka Demo
-        url: '#'
+        url: 'https://calendly.com/liteit'
         style: secondary
 seo:
   type: stackbit_page_meta

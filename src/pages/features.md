@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: section_content
     section_id: features
-    title: Shop Analytics omvandlar video till data och insikter
+    title: Shop Analytics omvandlar video till värdefulla insikter
     content: >+
       Principen bakom Shop Anaytics är rätt enkel, ny teknik har gjord det
       möjligt att låta en dator tolka en bild. Vi låter en algoritm analysera

@@ -30,6 +30,7 @@ sections:
         label: View Demo
         url: '#'
         style: secondary
+    image: /images/4.png
   - type: section_cta
     section_id: call-to-action
     title: This Is Call to Action Block!

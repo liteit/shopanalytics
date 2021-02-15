@@ -29,7 +29,7 @@
             {
                 "type": "action",
                 "label": "Boka Demo",
-                "url": "/signup",
+                "url": "https://calendly.com/acmesales",
                 "style": "primary"
             }
         ]

@@ -64,7 +64,7 @@ sections:
           obligatoriskt masktvång i Sverige, men funktionen kan illustrera vilka
           möjligheter som finns med Shop Analytics platform för att bli mer
           proaktiv och skapa en bättre kundupplevelse,
-        image: /images/Screenshot 2021-02-14 at 22.47.59.png
+        image: /images/3.png
         image_alt: App user profile preview
         actions:
           - type: action

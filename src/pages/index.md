@@ -61,7 +61,7 @@ sections:
           understiger 1m. Sverige ha ringet masktvång, men funktionen
           illustrerar vilka möjligheter som finns med Shop Analytics platform
           för att bli mer proaktiv och skapa en bättre kundupplevelse,
-        image: /images/3.png
+        image: /images/marvelous-spider.png
         image_alt: App user profile preview
         actions:
           - type: action

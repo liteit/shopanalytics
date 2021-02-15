@@ -38,7 +38,7 @@ sections:
             icon_position: right
         title: Hur många besöker butiken just nu eller hur var det i helgen?
       - type: feature_item
-        title: Vilka är på besök och när?
+        title: Vilka är på besök och när brukar de shoppa?
         content: >
           Följ upp faktiska besök mot marknadsföring, stämmer antaganden kring
           målgruppen?  Med Shop Analyics får ni bättre insikter kring ålder samt

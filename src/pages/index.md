@@ -40,11 +40,10 @@ sections:
       - type: feature_item
         title: Vilka är på besök och när?
         content: >
-          Stämmer faktiska besök med er annonsering och antaganden kring
-          målgrupp? Vad kan ni förändra för att optimera konverteringen i butik?
-          Med Shop Analyics får ni bättre insikter kring ålder samt kön och
-          vilka tider där extra personal kan bidra till en bättre kundupplevelse
-          och mer försäljning.
+          Följ upp faktiska besök mot marknadsföring, stämmer antaganden kring
+          målgruppen?  Med Shop Analyics får ni bättre insikter kring ålder samt
+          kön och vilka tider där extra personal kan bidra till en bättre
+          kundupplevelse och mer försäljning.
         image: /images/2.png
         image_alt: App users welcoming a new member
         actions:

@@ -36,7 +36,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        title: Hur många besöker butiken just nu eller hur var det i går?
+        title: Hur många besöker butiken just nu eller hur var det i helgen?
       - type: feature_item
         title: Vilka är på besök och när?
         content: >

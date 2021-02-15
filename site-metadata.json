@@ -1,148 +1,148 @@
 {
-  "title": "Shopanalytics",
-  "palette": "blue",
-  "base_font": "nunito-sans",
-  "header": {
-    "type": "header",
-    "logo_img": "/images/shopanalytics.png",
-    "logo_img_alt": "Logo",
-    "has_nav": true,
-    "nav_links": [
-      {
-        "type": "action",
-        "label": "Hem",
-        "url": "/",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Vår lösning",
-        "url": "/features",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Pris",
-        "url": "/pricing",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Boka Demo",
-        "url": "/signup",
-        "style": "primary"
-      }
-    ]
-  },
-  "footer": {
-    "type": "footer",
-    "sections": [
-      {
-        "type": "footer_text",
-        "image": "/images/anavidl.png",
-        "image_alt": "Footer logo",
-        "image_url": "/",
-        "content": "Powered by Anavid"
-      },
-      {
-        "type": "footer_nav",
-        "title": "Företaget",
+    "title": "Shopanalytics",
+    "palette": "blue",
+    "base_font": "nunito-sans",
+    "header": {
+        "type": "header",
+        "logo_img": "/images/shopanalytics.png",
+        "logo_img_alt": "Logo",
+        "has_nav": true,
         "nav_links": [
-          {
-            "type": "action",
-            "label": "Om Oss",
-            "url": "/about",
-            "style": "link"
-          },
-          {
-            "type": "action",
-            "label": "Blog",
-            "url": "/blog",
-            "style": "link"
-          },
-          {
-            "type": "action",
-            "label": "Sign Up",
-            "url": "/signup",
-            "style": "link"
-          },
-          {
-            "type": "action",
-            "label": "Kontakta",
-            "url": "/contact",
-            "style": "link"
-          }
+            {
+                "type": "action",
+                "label": "Hem",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Vår lösning",
+                "url": "/features",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Pris",
+                "url": "/pricing",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Boka Demo",
+                "url": "/signup",
+                "style": "primary"
+            }
         ]
-      },
-      {
-        "type": "footer_nav",
-        "title": "Community",
-        "nav_links": [
-          {
-            "type": "action",
-            "label": "Twitter",
-            "url": "https://twitter.com/",
-            "style": "link",
-            "has_icon": true,
-            "icon": "twitter",
-            "icon_position": "left"
-          },
-          {
-            "type": "action",
-            "label": "LinkedIn",
-            "url": "https://www.linkedin.com/",
-            "style": "link",
-            "has_icon": true,
-            "icon": "linkedin",
-            "icon_position": "left"
-          },
-          {
-            "type": "action",
-            "label": "GitHub",
-            "url": "https://github.com/",
-            "style": "link",
-            "has_icon": true,
-            "icon": "github",
-            "icon_position": "left"
-          }
-        ]
-      },
-      {
-        "type": "footer_form",
-        "title": "Nyhetsbrev",
-        "content": "Håll dig uppdaterad, vi delar lite insikter då och då",
-        "form_id": "contactForm",
-        "hide_labels": true,
-        "form_fields": [
-          {
-            "type": "form_field",
-            "input_type": "email",
-            "name": "email",
-            "label": "Email",
-            "default_value": "Enter email address",
-            "is_required": true
-          }
+    },
+    "footer": {
+        "type": "footer",
+        "sections": [
+            {
+                "type": "footer_text",
+                "image": "/images/anavidl.png",
+                "image_alt": "Footer logo",
+                "image_url": "/",
+                "content": "Powered by Anavid"
+            },
+            {
+                "type": "footer_nav",
+                "title": "Företaget",
+                "nav_links": [
+                    {
+                        "type": "action",
+                        "label": "Om Oss",
+                        "url": "/about",
+                        "style": "link"
+                    },
+                    {
+                        "type": "action",
+                        "label": "Blog",
+                        "url": "/blog",
+                        "style": "link"
+                    },
+                    {
+                        "type": "action",
+                        "label": "Sign Up",
+                        "url": "/signup",
+                        "style": "link"
+                    },
+                    {
+                        "type": "action",
+                        "label": "Kontakta",
+                        "url": "/contact",
+                        "style": "link"
+                    }
+                ]
+            },
+            {
+                "type": "footer_nav",
+                "title": "Community",
+                "nav_links": [
+                    {
+                        "type": "action",
+                        "label": "Twitter",
+                        "url": "https://twitter.com/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "twitter",
+                        "icon_position": "left"
+                    },
+                    {
+                        "type": "action",
+                        "label": "LinkedIn",
+                        "url": "https://www.linkedin.com/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "linkedin",
+                        "icon_position": "left"
+                    },
+                    {
+                        "type": "action",
+                        "label": "GitHub",
+                        "url": "https://github.com/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "github",
+                        "icon_position": "left"
+                    }
+                ]
+            },
+            {
+                "type": "footer_form",
+                "title": "Nyhetsbrev",
+                "content": "Vi håller dig uppdaterad...\n",
+                "form_id": "contactForm",
+                "hide_labels": true,
+                "form_fields": [
+                    {
+                        "type": "form_field",
+                        "input_type": "email",
+                        "name": "email",
+                        "label": "Email",
+                        "default_value": "Enter email address",
+                        "is_required": true
+                    }
+                ],
+                "submit_label": "Anmäl"
+            }
         ],
-        "submit_label": "Anmäl"
-      }
-    ],
-    "has_nav": true,
-    "nav_links": [
-      {
-        "type": "action",
-        "label": "Terms of Service",
-        "url": "/terms-of-service",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Privacy Policy",
-        "url": "/privacy-policy",
-        "style": "link"
-      }
-    ],
-    "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
-  },
-  "domain": "https://airvent.one",
-  "favicon": "/images/favicon-32x32.png"
+        "has_nav": true,
+        "nav_links": [
+            {
+                "type": "action",
+                "label": "Terms of Service",
+                "url": "/terms-of-service",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link"
+            }
+        ],
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+    },
+    "domain": "https://airvent.one",
+    "favicon": "/images/favicon-32x32.png"
 }

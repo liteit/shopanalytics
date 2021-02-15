@@ -83,9 +83,7 @@ sections:
   - type: section_reviews
     section_id: reviews
     title: Vad säger våra kunder?
-    subtitle: >-
-      Vi har frågat om de skulle rekommendera Shop Analytics och vad som
-      uppskattas med lösningen
+    subtitle: Vi har frågat och vad som uppskattas med lösningen
     background: gray
     reviews:
       - type: review_item

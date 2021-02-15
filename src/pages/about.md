@@ -1,10 +1,10 @@
 ---
 title: Om Anavid
 subtitle: >-
-  Shop Analytics är utvecklat av och driftas av Anavid. Anavid har anställda i
-  Frankrike samt utvecklare i Tunisien. Utöver SaaS tjänsten erbjuds konsulting
-  inom machine learning samt AI. Merparent av teamet har genomfört högre
-  akademiska studier. Under 2021 etablerar Anavid den Svenska grenen.
+  Shop Analytics är utvecklat av och driftas av Anavid. Anavids HQ är i Paris.
+  Utöver SaaS tjänsten erbjuds konsulting inom machine learning samt AI.
+  Merparent av teamet har högre akademiska studier. Under 2021 etablerar Anavid
+  den Svenska grenen.
 image: /images/anavid-1.png
 image_alt: Grundarna
 seo:

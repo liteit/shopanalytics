@@ -83,7 +83,9 @@ sections:
   - type: section_reviews
     section_id: reviews
     title: Vad säger våra kunder?
-    subtitle: Vi har frågat och vad som uppskattas med lösningen
+    subtitle: >-
+      Vi är intresserade av referenser inom olika vertikaler, hör av er om
+      intressant
     background: gray
     reviews:
       - type: review_item

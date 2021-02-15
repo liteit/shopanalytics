@@ -57,11 +57,10 @@ sections:
       - type: feature_item
         title: 'Är det köbildning, hålls avstånd eller används ansiktsmask?'
         content: >
-          Vi kan tolka kön vid kassan och notifiera personal automatiskt vid
-          köbildning eller när avstånd i kön understiger 1m. Vi har inget
-          obligatoriskt masktvång i Sverige, men funktionen kan illustrera vilka
-          möjligheter som finns med Shop Analytics platform för att bli mer
-          proaktiv och skapa en bättre kundupplevelse,
+          Bevaka kön och notifiera personal automatiskt eller när avstånd
+          understiger 1m. Sverige ha ringet masktvång, men funktionen
+          illustrerar vilka möjligheter som finns med Shop Analytics platform
+          för att bli mer proaktiv och skapa en bättre kundupplevelse,
         image: /images/3.png
         image_alt: App user profile preview
         actions:

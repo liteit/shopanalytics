@@ -99,9 +99,8 @@ sections:
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Vår personal är fantastisk, de har ofta en känsla för hur vi tar hand
-          om kunderna, men med Shop Analytics har vi fått bättre verktyg att
-          planera utifrån.
+          Vår personal är fantastisk, de har ofta en bra känsla hur vi hjälper
+          kunderna, men med Shop Analytics har vi fått ett mycket bättre stöd.
       - type: review_item
         author: Peter Josefsson
         avatar: images/review3.jpg

@@ -3,7 +3,7 @@ title: Videoanalys skapar nya möjligheter, men vad gäller kring personlig inte
 subtitle: Vad säger kameralagenKan man använda sin existerande video till nya
   användningsområden?
 date: 2021-01-03
-author: src/data/authors/magnus.yaml
+author: src/data/authors/john-doe.yaml
 excerpt: Vad säger kameralagenKan man använda sin existerande video till nya
   användningsområden?
 image: images/3.jpg

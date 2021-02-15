@@ -110,7 +110,7 @@
       {
         "type": "footer_form",
         "title": "Nyhetsbrev",
-        "content": "Håll dig uppdatera med det senaste\n",
+        "content": "Håll dig uppdaterad, vi delar lite insikter då och då",
         "form_id": "contactForm",
         "hide_labels": true,
         "form_fields": [

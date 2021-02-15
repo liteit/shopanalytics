@@ -14,7 +14,7 @@ sections:
         style: primary
   - type: section_features
     section_id: features
-    title: Vad sägs om att aktivera era dolda tillgångar!?
+    title: Visualisera era dolda insikter
     subtitle: >-
       Använd Shop Analytics för att få svar, ta informerade beslut baserat på
       fakta istället för på antaganden med syfte att förbättra er affär och
@@ -25,9 +25,8 @@ sections:
         content: >
           Vår enklaste och intuitivaste insikt är antalet besök, jämför mellan
           era butiker eller över tid. Shop Analytics identifierar personer som
-          går in och sedan ut och presenterar hur många som just nu är i
-          butiken.
-        image: /images/1.png
+          går in och sedan ut och hur många som är samtidigt i butiken. 
+        image: /images/2.png
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
@@ -41,12 +40,11 @@ sections:
       - type: feature_item
         title: Vilka är på besök och när?
         content: >
-          Stämmer faktiska besök med er annonsering och antaganden kring
-          målgrupp? Vad kan ni förändra för att optimera konverteringen i butik?
-          Med Shop Analyics får ni bättre insikter kring ålder samt kön och
-          vilka tider där extra personal kan bidra till en bättre kundupplevelse
-          och mer försäljning.
-        image: /images/2.png
+          Följ upp faktiska besök mot marknadsföring, stämmer antaganden kring
+          målgruppen?  Med Shop Analyics får ni bättre insikter kring ålder samt
+          kön och vilka tider där extra personal kan bidra till en bättre
+          kundupplevelse och mer försäljning.
+        image: /images/1.png
         image_alt: App users welcoming a new member
         actions:
           - type: action
@@ -59,11 +57,10 @@ sections:
       - type: feature_item
         title: 'Är det köbildning, hålls avstånd eller används ansiktsmask?'
         content: >
-          Vi kan tolka kön vid kassan och notifiera personal automatiskt vid
-          köbildning eller när avstånd i kön understiger 1m. Vi har inget
-          obligatoriskt masktvång i Sverige, men funktionen kan illustrera vilka
-          möjligheter som finns med Shop Analytics platform för att bli mer
-          proaktiv och skapa en bättre kundupplevelse,
+          Bevaka kön och notifiera personal automatiskt eller när avstånd
+          understiger 1m. Sverige ha ringet masktvång, men funktionen
+          illustrerar vilka möjligheter som finns med Shop Analytics platform
+          för att bli mer proaktiv och skapa en bättre kundupplevelse,
         image: /images/3.png
         image_alt: App user profile preview
         actions:

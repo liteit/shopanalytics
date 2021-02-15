@@ -13,8 +13,7 @@ sections:
       insikter.
 
 
-      *   Antalet besökare och hur många som är i butiken. Räknaren känner av
-      när en person går in eller ut.
+      *   Antalet besökare, just nu och över tid
 
       *   Fördelning mellan kön
 

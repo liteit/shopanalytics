@@ -111,7 +111,7 @@
             {
                 "type": "footer_form",
                 "title": "Nyhetsbrev",
-                "content": "Vi håller dig uppdaterad...\n",
+                "content": "Vore trevligt att hålla kontakten\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [

@@ -25,8 +25,7 @@ sections:
         content: >
           Vår enklaste och intuitivaste insikt är antalet besök, jämför mellan
           era butiker eller över tid. Shop Analytics identifierar personer som
-          går in och sedan ut och presenterar hur många som just nu är i
-          butiken.
+          går in och sedan ut och hur många som är samtidigt i butiken. 
         image: /images/1.png
         image_alt: App preview on a phone and tablet
         actions:

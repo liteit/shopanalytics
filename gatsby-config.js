@@ -34,7 +34,7 @@ module.exports = {
                 pageContextProperty: `menus`,
             }
         }
-
+,
         {
             resolve: `gatsby-plugin-google-analytics`,
             options: {

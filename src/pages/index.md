@@ -120,6 +120,7 @@ sections:
         label: Boka Demo
         url: 'https://calendly.com/liteit'
         style: primary
+        new_window: true
   - type: section_posts
     section_id: recent-posts
     title: Latest Posts

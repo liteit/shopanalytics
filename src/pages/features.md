@@ -4,11 +4,13 @@ sections:
   - type: section_content
     section_id: features
     title: Shop Analytics omvandlar video till värdefulla insikter
-    content: >+
-      Principen bakom Shop Anaytics är rätt enkel, ny teknik har gjord det
-      möjligt att låta en dator tolka en bild. Vi låter en algoritm analysera
-      videon i realtid och endast det som algoritmen är skapad för ger en
-      insikt. För den Svenska marknaden erbjuder vi följande insikter.   
+    content: >
+      Principen bakom Shop Anaytics är rätt enkel även om matematiken bakom är
+      imponerande. Ny teknik har gjord det möjligt att låta en dator tolka en
+      bild, räkna, rangordna och sortera objekt effektivt.  Shop Analytics
+      analyserar videoströmmar i realtid och de enda datapunkter som sparas i
+      kundens konto är själva insikten.  För den Svenska marknaden erbjuder vi
+      följande insikter.
 
 
       *   Antalet besökare och hur många som är i butiken. Räknaren känner av
@@ -16,10 +18,7 @@ sections:
 
       *   Fördelning mellan kön
 
-      *   Åldersfördelning 
-
-
-
+      *   Åldersfördelning
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     background: gray

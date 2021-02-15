@@ -58,9 +58,9 @@ sections:
         title: 'Är det köbildning, hålls avstånd eller används ansiktsmask?'
         content: >
           Bevaka kön och notifiera personal automatiskt eller när avstånd
-          understiger 1m. Sverige ha ringet masktvång, men funktionen
+          understiger 1m. Sverige finns inget masktvång, men funktionen i sig
           illustrerar vilka möjligheter som finns med Shop Analytics platform
-          för att bli mer proaktiv och skapa en bättre kundupplevelse,
+          för att bli mer proaktiv och skapa en bättre kundupplevelse.
         image: /images/marvelous-spider.png
         image_alt: App user profile preview
         actions:

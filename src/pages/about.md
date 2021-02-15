@@ -35,6 +35,14 @@ seo:
       relativeUrl: true
 template: page
 ---
-Ahmed Chaari har en lång och bred efarenhet både utveckling och innovation.  Hans spetskompetens ligger inom bildigenkänning och mjukvara. Numer är Ahmed även doktor inom AI med videoanalys som specialitet. 
+## Grunden till Shop Analytics lades i Stockholm 2017
 
-David Nillson har en bred marknadschefsbakgrund från både den analoga och digitala världen. Senaste årens digitala erfarenheter är en stark tillgång när det analoga möter det digitala.
+Grundarna träffades genom ett accelratorprogram och valde att kombinera sina båda styrkor och erfarenheter. 
+
+![](https://www.ehandel.se/wp-content/uploads/2019/07/11212.jpg)
+
+*   Ahmed Chaari har en lång och bred efarenhet både utveckling och innovation.  Hans spetskompetens ligger inom bildigenkänning och mjukvara. Numer är Ahmed även doktor inom AI med videoanalys som specialitet. 
+
+<!---->
+
+*   David Nillson har en bred marknadschefsbakgrund från både den analoga och digitala världen. Senaste årens digitala erfarenheter är en stark tillgång när det analoga möter det digitala.

@@ -27,7 +27,7 @@ sections:
           era butiker eller över tid. Shop Analytics identifierar personer som
           går in och sedan ut och presenterar hur många som just nu är i
           butiken.
-        image: images/feature1.png
+        image: /images/1.png
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
@@ -46,7 +46,7 @@ sections:
           Med Shop Analyics får ni bättre insikter kring ålder samt kön och
           vilka tider där extra personal kan bidra till en bättre kundupplevelse
           och mer försäljning.
-        image: images/feature2.png
+        image: /images/2.png
         image_alt: App users welcoming a new member
         actions:
           - type: action
@@ -64,7 +64,7 @@ sections:
           obligatoriskt masktvång i Sverige, men funktionen kan illustrera vilka
           möjligheter som finns med Shop Analytics platform för att bli mer
           proaktiv och skapa en bättre kundupplevelse,
-        image: /images/Screenshot 2021-02-14 at 22.47.59.png
+        image: /images/3.png
         image_alt: App user profile preview
         actions:
           - type: action

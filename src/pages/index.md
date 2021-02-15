@@ -83,7 +83,9 @@ sections:
   - type: section_reviews
     section_id: reviews
     title: Vad säger våra kunder?
-    subtitle: Vi arbetar kunddrivet och nya funktioner är kundönskemål
+    subtitle: >-
+      Vi arbetar extremt kunddrivet och nya funktioner är oftast baserat på
+      tydliga kundönskemål
     background: gray
     reviews:
       - type: review_item

@@ -72,7 +72,7 @@ sections:
             icon: arrow-right
             icon_position: right
   - section_id: contentsection
-    title: Att känna kunden gör skillnad
+    title: Att förstå besöken gör skillnad
     content: >
       > Ingen personlig data sparas på individnivå, endast anonymiserad och
       aggregerad data

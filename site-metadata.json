@@ -41,8 +41,8 @@
                 "type": "footer_text",
                 "image": "/images/anavidl.png",
                 "image_alt": "Footer logo",
-                "image_url": "/",
-                "content": "Powered by Anavid"
+                "image_url": "https://www.anavid.co",
+                "content": "Powers up Shop Analytics\n"
             },
             {
                 "type": "footer_nav",

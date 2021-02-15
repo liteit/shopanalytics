@@ -3,23 +3,22 @@ title: Features
 sections:
   - type: section_content
     section_id: features
-    title: Möt framtiden med butik 2.0 där realtids insikter gör skillnad
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    title: Shop Analytics omvandlar video till värdefulla insikter
+    content: >
+      Principen bakom Shop Anaytics är rätt enkel även om matematiken bakom är
+      imponerande. Ny teknik har gjord det möjligt att låta en dator tolka en
+      bild, räkna, rangordna och sortera objekt effektivt.  Shop Analytics
+      analyserar videoströmmar i realtid och de enda datapunkter som sparas i
+      kundens konto är själva insikten.  För den Svenska marknaden erbjuder vi
+      följande insikter.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      *   Antalet besökare och hur många som är i butiken. Räknaren känner av
+      när en person går in eller ut.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      *   Fördelning mellan kön
 
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    image: images/feature1.png
+      *   Åldersfördelning
     image_alt: App preview on a phone and tablet
     background: gray
     actions:
@@ -31,6 +30,7 @@ sections:
         label: View Demo
         url: '#'
         style: secondary
+    image: /images/4.png
   - type: section_cta
     section_id: call-to-action
     title: This Is Call to Action Block!

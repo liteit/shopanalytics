@@ -4,7 +4,7 @@ sections:
   - type: section_hero
     section_id: hero
     title: "Öka försäljningen genom digitaliserade\_ insikter från butiken"
-    content: "Vi erbjuder en modern SaaS lösning, inspirerad av e-handeln för alla fysiska butiker. Genom vår innovativa videoanalys,\_ med anonymisering blir det enklare att planera och följa upp och bidra till ökad omsättning."
+    content: "Vi erbjuder en modern SaaS lösning, inspirerad av e-handeln för alla fysiska butiker. Genom vår innovativa videoanalys,\_ med anonymisering blir det enklare att planera och följa upp samt bidra till ökad försäljning.\n"
     image: /images/shopanalytics-1.png
     image_alt: App preview
     actions:
@@ -26,7 +26,7 @@ sections:
           Vår enklaste och intuitivaste insikt är antalet besök, jämför mellan
           era butiker eller över tid. Shop Analytics identifierar personer som
           går in och sedan ut och hur många som är samtidigt i butiken. 
-        image: /images/2.png
+        image: /images/neat-ant.png
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
@@ -44,7 +44,7 @@ sections:
           målgruppen?  Med Shop Analyics får ni bättre insikter kring ålder samt
           kön och vilka tider där extra personal kan bidra till en bättre
           kundupplevelse och mer försäljning.
-        image: /images/1.png
+        image: /images/fierce-hedgehog.png
         image_alt: App users welcoming a new member
         actions:
           - type: action
@@ -61,7 +61,7 @@ sections:
           understiger 1m. Sverige ha ringet masktvång, men funktionen
           illustrerar vilka möjligheter som finns med Shop Analytics platform
           för att bli mer proaktiv och skapa en bättre kundupplevelse,
-        image: /images/3.png
+        image: /images/marvelous-spider.png
         image_alt: App user profile preview
         actions:
           - type: action
@@ -72,7 +72,7 @@ sections:
             icon: arrow-right
             icon_position: right
   - section_id: contentsection
-    title: Att känna kunden gör skillnad
+    title: Att förstå besöken gör skillnad
     content: >
       > Ingen personlig data sparas på individnivå, endast anonymiserad och
       aggregerad data
@@ -83,9 +83,7 @@ sections:
   - type: section_reviews
     section_id: reviews
     title: Vad säger våra kunder?
-    subtitle: >-
-      Vi har frågat om de skulle rekommendera Shop Analytics och vad som
-      uppskattas med lösningen
+    subtitle: 'Vi är kunddriva, nya funktioner är oftast önskemål från våra kunder'
     background: gray
     reviews:
       - type: review_item

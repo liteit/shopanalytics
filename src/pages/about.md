@@ -38,7 +38,6 @@ seo:
       relativeUrl: true
 template: page
 ---
-Ahmed har en lång och bred arefarenhet av bildigenkänning och mjukvara. Numer doktor inom AI med videoanalys som specialitet. 
+Ahmed Chaari har en lång och bred efarenhet både utveckling och innovation.  Hans spetskompetens ligger inom bildigenkänning och mjukvara. Numer är Ahmed även doktor inom AI med videoanalys som specialitet. 
 
-David Nillson har en marknadschefsbakgrund.
-
+David Nillson har en bred marknadschefsbakgrund från både den analoga och digitala världen. Senaste årens digitala erfarenheter är en stark tillgång när det analoga möter det digitala.

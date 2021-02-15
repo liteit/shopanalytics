@@ -19,7 +19,6 @@ sections:
       *   Fördelning mellan kön
 
       *   Åldersfördelning
-    image: /images/Untitled design.png
     image_alt: App preview on a phone and tablet
     background: gray
     actions:

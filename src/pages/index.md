@@ -83,9 +83,7 @@ sections:
   - type: section_reviews
     section_id: reviews
     title: Vad säger våra kunder?
-    subtitle: >-
-      Vi är intresserade av referenser inom olika vertikaler, hör av er om
-      intressant
+    subtitle: Vi arbetar kunddrivet och nya funktioner är kundönskemål
     background: gray
     reviews:
       - type: review_item

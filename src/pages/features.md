@@ -39,7 +39,7 @@ sections:
       feedback
     actions:
       - type: action
-        label: Get Started
+        label: Boka demo
         url: '#'
         style: secondary
 seo:

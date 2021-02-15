@@ -14,7 +14,7 @@ sections:
         style: primary
   - type: section_features
     section_id: features
-    title: Aktivera era dolda insikter och bli bättre!
+    title: Visualisera era dolda insikter
     subtitle: >-
       Använd Shop Analytics för att få svar, ta informerade beslut baserat på
       fakta istället för på antaganden med syfte att förbättra er affär och

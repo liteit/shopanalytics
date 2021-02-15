@@ -5,7 +5,7 @@ sections:
     section_id: hero
     title: "Öka försäljningen genom digitaliserade\_ insikter från butiken"
     content: "Vi erbjuder en modern SaaS lösning, inspirerad av e-handeln för alla fysiska butiker. Genom vår innovativa videoanalys,\_ med anonymisering blir det enklare att planera och följa upp samt bidra till ökad försäljning.\n"
-    image: /images/Shopanalytics1200_900.png
+    image: /images/splendid-cedar.png
     image_alt: App preview
     actions:
       - type: action

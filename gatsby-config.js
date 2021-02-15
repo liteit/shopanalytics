@@ -1,5 +1,10 @@
 const siteMetadata = require('./site-metadata.json')
 
+
+require("dotenv").config({
+    path: `.env.${process.env.NODE_ENV}`,
+  })
+
 module.exports = {
     pathPrefix: '/',
     siteMetadata: siteMetadata,
@@ -29,5 +34,13 @@ module.exports = {
                 pageContextProperty: `menus`,
             }
         }
+
+        {
+            resolve: `gatsby-plugin-google-analytics`,
+            options: {
+              // The property ID; the tracking code won't be generated without it
+              trackingId: "GA_TRACKING_ID",
+            },
+          },
     ]
 };

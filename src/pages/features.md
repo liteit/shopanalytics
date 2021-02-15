@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: section_content
     section_id: features
-    title: Möt framtiden med en butik där insikter driver affären
+    title: Shop Analytics omvandlar video till data och insikter
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum

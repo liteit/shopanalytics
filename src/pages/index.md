@@ -83,7 +83,7 @@ sections:
   - type: section_reviews
     section_id: reviews
     title: Vad säger våra kunder?
-    subtitle: 'Vi är kunddriva, nya funktioner är oftast önskemål från våra kunder,'
+    subtitle: 'Vi är kunddriva, nya funktioner är oftast önskemål från våra kunder'
     background: gray
     reviews:
       - type: review_item

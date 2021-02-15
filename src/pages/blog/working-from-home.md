@@ -1,7 +1,7 @@
 ---
 title: Amazon är lanserat i Sverige, hot eller möjlighet?
 date: 2020-10-29T23:00:00.000Z
-author: src/data/authors/jane-doe.yaml
+author: src/data/authors/magnus.yaml
 excerpt: Trenden är tydligt, mer och mer säljs online men Amazons lansering blev
   inte vad många trodde, inte ännu i alla fall
 image: images/9.jpg

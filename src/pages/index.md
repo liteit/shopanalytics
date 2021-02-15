@@ -46,7 +46,7 @@ sections:
           Med Shop Analyics får ni bättre insikter kring ålder samt kön och
           vilka tider där extra personal kan bidra till en bättre kundupplevelse
           och mer försäljning.
-        image: images/feature2.png
+        image: /images/2.png
         image_alt: App users welcoming a new member
         actions:
           - type: action

@@ -37,7 +37,7 @@ template: page
 ---
 ## Grunden till Shop Analytics lades i Stockholm 2017
 
-Grundarna träffades genom ett accelratorprogram och valde att kombinera sina båda styrkor och erfarenheter.
+Grundarna träffades genom ett accelratorprogram och valde att kombinera sina båda styrkor och erfarenheter. En första MVP presenterades under handelsmässan i Göteborg.  
 
 ![](https://www.ehandel.se/wp-content/uploads/2019/07/11212.jpg)
 

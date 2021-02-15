@@ -42,7 +42,7 @@ sections:
         url: 'https://calendly.com/liteit'
         style: secondary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Återanvänd din data
     content: >-
       ## Lorem ipsum
 

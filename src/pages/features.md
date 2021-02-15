@@ -33,7 +33,7 @@ sections:
     image: /images/4.png
   - type: section_cta
     section_id: call-to-action
-    title: This Is Call to Action Block!
+    title: 'Vi älskar demo, utmana oss'
     subtitle: This is an optional description for the call to action block.
     actions:
       - type: action

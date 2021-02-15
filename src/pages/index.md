@@ -118,7 +118,7 @@ sections:
     actions:
       - type: action
         label: Boka Demo
-        url: /signup
+        url: 'https://calendly.com/liteit'
         style: primary
   - type: section_posts
     section_id: recent-posts

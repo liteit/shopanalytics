@@ -4,21 +4,22 @@ sections:
   - type: section_content
     section_id: features
     title: Shop Analytics omvandlar video till data och insikter
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >+
+      Principen bakom Shop Anaytics är rätt enkel, ny teknik har gjord det
+      möjligt att låta en dator tolka en bild. Vi låter en algoritm analysera
+      videon i realtid och endast det som algoritmen är skapad för ger en
+      insikt. För den Svenska marknaden erbjuder vi följande insikter.   
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      *   Antalet besökare och hur många som är i butiken. Räknaren känner av
+      när en person går in eller ut.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      *   Fördelning mellan kön
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      *   Åldersfördelning 
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     background: gray

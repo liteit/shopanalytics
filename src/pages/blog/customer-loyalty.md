@@ -1,9 +1,10 @@
 ---
-title: 'Videoanalys skapar nya möjligheter, men vad gäller kring personlig integritet?'
-date: '2021-01-03'
-author: src/data/authors/jane-doe.yaml
-excerpt: >-
-  Vad säger kameralagenKan man använda sin existerande video till nya
+title: Videoanalys skapar nya möjligheter, men vad gäller kring personlig integritet?
+subtitle: Vad säger kameralagenKan man använda sin existerande video till nya
+  användningsområden?
+date: 2021-01-03
+author: src/data/authors/john-doe.yaml
+excerpt: Vad säger kameralagenKan man använda sin existerande video till nya
   användningsområden?
 image: images/3.jpg
 image_alt: A group of people working in a cafe
@@ -12,40 +13,34 @@ thumb_image_alt: A group of people working in a cafe
 seo:
   type: stackbit_page_meta
   title: Customer Loyalty Programs That Stick
-  description: >-
-    A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-    amet commodo massa.
+  description: A story about customer loyalty curabitur sed consectetur nisi.
+    Integer sit amet commodo massa.
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Customer Loyalty Programs That Stick
       keyName: property
-    - name: 'og:description'
-      value: >-
-        A story about customer loyalty curabitur sed consectetur nisi. Integer
+    - name: og:description
+      value: A story about customer loyalty curabitur sed consectetur nisi. Integer
         sit amet commodo massa.
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/3.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Customer Loyalty Programs That Stick
-    - name: 'twitter:description'
-      value: >-
-        A story about customer loyalty curabitur sed consectetur nisi. Integer
+    - name: twitter:description
+      value: A story about customer loyalty curabitur sed consectetur nisi. Integer
         sit amet commodo massa.
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/3.jpg
       relativeUrl: true
 template: post
-subtitle: >-
-  Vad säger kameralagenKan man använda sin existerande video till nya
-  användningsområden?
 ---
 
 **Loyalty** curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.

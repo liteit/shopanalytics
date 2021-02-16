@@ -154,6 +154,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: /images/wonderful-wallaby.png
   - section_id: pricing-section
     subtitle: >-
       Det skall vara enkelt att komma igång, därför har vi ett erbjudande

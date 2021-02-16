@@ -23,7 +23,7 @@ sections:
     actions:
       - label: Price
         url: /priceplan
-        style: link
+        style: primary
         has_icon: true
         icon: arrow-right
         icon_position: left

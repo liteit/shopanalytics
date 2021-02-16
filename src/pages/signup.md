@@ -1,7 +1,7 @@
 ---
 title: Beställ
 subtitle: Beställ Shop Analytics
-image: images/11.jpg
+image: /images/5.jpg
 image_alt: Office desk top view
 seo:
   type: stackbit_page_meta

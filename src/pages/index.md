@@ -7,14 +7,7 @@ sections:
     content: "Vi erbjuder en modern SaaS lösning, inspirerad av e-handeln för alla fysiska butiker. Genom vår innovativa videoanalys,\_ med anonymisering blir det enklare att planera och följa upp samt bidra till ökad försäljning.\n"
     image: /images/splendid-cedar.png
     image_alt: App preview
-    actions:
-      - type: action
-        label: Läs mer
-        url: /features
-        style: primary
-        icon: arrow-right
-        has_icon: false
-        icon_position: right
+    actions: []
   - type: section_features
     section_id: features
     title: Visualisera butikens dolda insikter

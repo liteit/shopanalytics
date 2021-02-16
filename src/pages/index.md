@@ -135,8 +135,8 @@ sections:
         subtitle: För små butiker med en kamera
         price: 1295 kr/mån
         details: |
-          > *   Antal besökare
-          >
+          *   Antal besökare
+        
           > > Fördelning mellan kön
           >
           > > *   Åldersfördelning

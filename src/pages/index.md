@@ -163,6 +163,8 @@ sections:
           *   Fördelning mellan kön
 
           *   Åldersfördelning
+
+          *\*\*Analys av två kameror*
         highlight: true
         actions:
           - label: Beställ

@@ -135,9 +135,6 @@ sections:
     background: gray
   - section_id: contact-section
     title: Kontakta Oss
-    subtitle: >-
-      Vi återkommer så snart vi kan och uppgifter används endast i syfte att
-      hjälpa er, ingen tredje part tar del av dessa.
     content: >-
       ## Lorem ipsum
 

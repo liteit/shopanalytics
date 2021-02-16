@@ -207,7 +207,7 @@ sections:
     title: Latest Posts
     background: gray
   - section_id: faq-section
-    title: Våra vanligaste frågor och svar
+    title: Vanliga frågor och svar
     subtitle: Har du andra frågor är du självklart välkommen att kontaka oss
     background: white
     faq_items:

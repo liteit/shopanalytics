@@ -118,15 +118,15 @@ sections:
         avatar_alt: Parsley Montana's photo
         content: >-
           Vår personal är fantastisk, de har ofta en bra känsla hur vi hjälper
-          kunderna, men med Shop Analytics har vi fått ett mycket bättre stöd.
+          kunderna, men med Shop Analytics har vi fått ett bättre flow.
       - type: review_item
         author: Peter Josefsson
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Vår onlineförsäljning och våra annonser har vi haft koll på, men
+          Vår onlineförsäljning och annonsering har vi haft koll på, men
           kopplingen till butik har varit svår att följa upp. Nu har vi tillgång
-          till insikter som hjälper oss utvärdera effektivt.
+          till insikter som hjälper oss utvärdera vad vi gör.
   - section_id: pricing-section
     subtitle: >-
       Det skall vara enkelt att komma igång, därför har vi ett erbjudande

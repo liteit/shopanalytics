@@ -22,7 +22,7 @@ sections:
     background: gray
     actions:
       - label: sirp
-        url: /
+        url: /priceplan
         style: link
         has_icon: false
         icon: arrow-left

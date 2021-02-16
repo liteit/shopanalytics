@@ -22,7 +22,7 @@
             },
             {
                 "type": "action",
-                "label": "Erbjudande",
+                "label": "Pris",
                 "url": "/pricing",
                 "style": "link"
             },

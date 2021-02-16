@@ -6,8 +6,8 @@ sections:
     title: Öka försäljningen med digitaliserade insikter från butiken
     content: >
       Vi erbjuder en modern SaaS lösning, inspirerad av e-handeln för alla
-      fysiska butiker. Genom vår innovativa videoanalys, anonymiserad blir det
-      enklare att följa upp samt bidra till ökad försäljning.
+      fysiska butiker. Genom vår innovativa videoanalys blir det enklare att
+      följa upp samt bidra till ökad försäljning.
     image: /images/splendid-cedar.png
     image_alt: App preview
     actions: []

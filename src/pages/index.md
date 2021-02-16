@@ -34,14 +34,7 @@ sections:
           kundupplevelse och mer försäljning.
         image: /images/royal-lime.png
         image_alt: App users welcoming a new member
-        actions:
-          - type: action
-            label: Läs mer
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - type: feature_item
         title: 'Är det köbildning, hålls avstånd eller används ansiktsmask?'
         content: >

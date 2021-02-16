@@ -52,7 +52,7 @@
                     {
                         "type": "action",
                         "label": "Om anavid",
-                        "url": "/about",
+                        "url": "oc.divana",
                         "style": "link"
                     },
                     {

@@ -15,6 +15,7 @@ sections:
     background: white
     actions: []
     type: section_content
+    image: /images/Shopanalytics_750_650.png
   - section_id: receo
     content: >
       ## Anslut befintlig kamera

@@ -134,7 +134,7 @@ sections:
     title: Latest Posts
     background: gray
   - section_id: contact-section
-    title: lorem
+    title: Kontakta Oss
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum

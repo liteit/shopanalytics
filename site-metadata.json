@@ -4,7 +4,7 @@
     "base_font": "nunito-sans",
     "header": {
         "type": "header",
-        "logo_img": "/images/shopanalytics.png",
+        "logo_img": ,
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [

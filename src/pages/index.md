@@ -200,7 +200,7 @@ sections:
     title: Priser
   - type: section_posts
     section_id: recent-posts
-    title: Senaste inlägg
+    title: Våra senaste reflektioner
     background: gray
   - section_id: faq-section
     title: Vanliga frågor och svar

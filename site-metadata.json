@@ -52,7 +52,8 @@
                     {
                         "type": "action",
                         "label": "Om anavid",
-                        "style": "link"
+                        "style": "link",
+                        "url": "a"
                     },
                     {
                         "type": "action",

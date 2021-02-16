@@ -13,8 +13,7 @@ sections:
       insikter.
 
 
-      *   Antalet besökare och hur många som är i butiken. Räknaren känner av
-      när en person går in eller ut.
+      *   Antalet besökare, just nu och över tid
 
       *   Fördelning mellan kön
 
@@ -22,15 +21,16 @@ sections:
     image_alt: App preview on a phone and tablet
     background: gray
     actions:
-      - type: action
-        label: Free Trial
-        url: /signup
+      - url: /priceplan
         style: primary
-      - type: action
-        label: View Demo
-        url: '#'
-        style: secondary
-    image: /images/5.png
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+        label: Erbjudande
+    image: /images/wonderful-wallaby.png
   - type: section_cta
     section_id: call-to-action
     title: 'Vi älskar demo, utmana oss'
@@ -42,6 +42,36 @@ sections:
         label: Boka Demo
         url: 'https://calendly.com/liteit'
         style: secondary
+  - section_id: receo
+    title: Återanvänd din data
+    content: >
+      ## Anslut befintlig kamera
+
+
+      Har ni redan en kamera eller kamerasystem som har en bra placering så
+      återanvänds video
+
+
+      *   Stöd för ONVIF underlättar 
+
+      *   Ge Shop Analytics tillång till videoström
+
+
+      ## Sätt upp ny kamera
+
+
+      Har ni ingen kamera så finns ett stort utbud att tillgå
+
+
+      *   Installera själv och ge kameran en publik IP adress
+
+
+      *   Önskas installatörer så har vi samarbetspartners
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
+    image: /images/fabulous-amaranth.png
 seo:
   type: stackbit_page_meta
   title: Features

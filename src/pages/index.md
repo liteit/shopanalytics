@@ -114,7 +114,7 @@ sections:
     image_alt: lorem-ipsum
     background: white
     actions:
-      - label: 'MEr '
+      - label: Mer info
         url: lorem-ipsum
         style: link
         has_icon: false

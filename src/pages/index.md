@@ -44,7 +44,16 @@ sections:
       aggregerad data
     image_alt: know custoner
     background: white
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
   - section_id: service-section
     title: Ge butikens kamera nya superkrafter

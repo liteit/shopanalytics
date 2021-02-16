@@ -94,7 +94,7 @@ sections:
       #### I Sverige erbjuds följande insikter:
 
 
-      *   Antalet besökare
+      *   Antal besök
 
 
       *   Fördelning mellan kön

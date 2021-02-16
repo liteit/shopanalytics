@@ -21,7 +21,7 @@ export default class SectionReviews extends React.Component {
               {_.get(section, 'crew', null) && (
               <div className="inner">
                 <div className="grid">
-                  {_.map(_.get(section, 'creww', null), (review, review_idx) => (
+                  {_.map(_.get(section, 'crew', null), (review, review_idx) => (
                   <h2 key={review_idx} className="cell review">
                     <div className="card">
                       <p className="crew-text">{htmlToReact(_.get(review, 'content', null))}</p>

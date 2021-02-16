@@ -229,7 +229,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Jag förstår att detta formulär sparar mina uppgifter så jag kan bli
+          Jag förstår att detta formulär sparar mina uppgifter för att kunna bli
           kontaktad
         options: []
         is_required: true

@@ -17,7 +17,6 @@ sections:
       - dolor sit amet
     background: gray
     form_id: orderForm
-    form_action: lorem-ipsum
     hide_labels: false
     form_fields: []
     submit_label: lorem-ipsum

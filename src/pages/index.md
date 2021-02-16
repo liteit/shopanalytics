@@ -131,7 +131,7 @@ sections:
     pricing_plans:
       - title: Basic
         subtitle: För små butiker med en kamera
-        price: lorem-ipsum
+        price: 1295 kr/mån
         details: >-
           ## Lorem ipsum
 

@@ -84,7 +84,7 @@ sections:
     type: section_content
   - type: section_cta
     section_id: call-to-action
-    title: 'Vi älskar demo, utmana oss'
+    title: 'Vi älskar demos, utmana oss'
     subtitle: >-
       Vi demar gärna utan förpliktelser och är genuint intresserad av din
       feedback

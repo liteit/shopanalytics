@@ -239,7 +239,7 @@ sections:
   - section_id: faq-section
     title: FAQ
     subtitle: Vanliga frågor och svar
-    background: gray
+    background: white
     faq_items: []
     type: section_faq
 seo:

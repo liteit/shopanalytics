@@ -137,8 +137,7 @@ sections:
         details: |
           * Antal besökare
           * Fördelning mellan kön
-          >
-          > > *   Åldersfördelning
+          * Åldersfördelning
         highlight: false
         actions:
           - label: Beställ

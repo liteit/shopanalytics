@@ -91,39 +91,6 @@ sections:
         type: action
     type: section_content
     image: /images/fabulous-amaranth.png
-  - section_id: faqfeatures
-    title: Frågor och Svar
-    subtitle: Vi besvarar och rätar ut ett par vanliga frågetecken
-    background: white
-    faq_items:
-      - question: Vad säger kameralagen och GDPR?
-        answer: >
-          ## Kamerlagen och GDPR
-
-
-          Med nya GDPR förordningen har det blivit lättare att sätta upp kameror
-          för övervakning i butiker, detta även utan särskilt tillstånd. Däremot
-          är det inte ok att videoövervaka sin personal, bara för att man kan.
-          För detta krävs särskilda omständigheter och brottsmisstanke.  Att ha
-          en kamera riktad mot kassor och entren är precis som med
-          säkerhetskamerorna relativt vedertaget. 
-        type: faq_item
-      - question: >-
-          Om jag börjar använda er tjänst för att skapa en bättre
-          kundupplevelse, bör jag tala om för kunderna?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        type: faq_item
-    type: section_faq
 seo:
   type: stackbit_page_meta
   title: Features

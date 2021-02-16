@@ -48,7 +48,7 @@ sections:
     content: >
       Shop Anaytics tjänsten är enkel att använda även om algoritmerna är
       imponerande.  Kamerans video analyseras i realtid och de enda datapunkter
-      som sparas i vår plattform är statistik.
+      som sparas i vår plattform är aggregerad statistik.
 
 
       #### I Sverige erbjuds följande insikter:

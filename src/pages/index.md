@@ -279,6 +279,23 @@ sections:
         type: form_field
     submit_label: Skicka
     type: section_contact
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
 seo:
   type: stackbit_page_meta
   title: Shopanalytics landing

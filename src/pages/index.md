@@ -88,13 +88,13 @@ sections:
     content: >
       Shop Anaytics tjänsten är enkel att använda även om algoritmerna är
       imponerande. Ny teknik har gjord det möjligt att analysera bilder, räkna
-      och klassificera objekt snabbt. 
+      och klassificera objekt snabbt.
 
 
       #### I Sverige erbjuds följande insikter:
 
 
-      *   Antalet besökare, just nu och över tid
+      *   Antalet besökare
 
 
       *   Fördelning mellan kön

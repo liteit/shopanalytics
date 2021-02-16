@@ -69,16 +69,7 @@ sections:
       *   Önskas installatörer så har vi samarbetspartners
     image_alt: lorem-ipsum
     background: gray
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     type: section_content
     image: /images/fabulous-amaranth.png
 seo:

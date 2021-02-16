@@ -136,7 +136,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy"
+        "content": "&copy "
     },
     "domain": "https://airvent.one",
     "favicon": "/images/favicon-32x32.png"

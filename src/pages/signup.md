@@ -1,7 +1,7 @@
 ---
 title: Beställ
 subtitle: Beställ Shop Analytics
-image: /images/5.jpg
+image:
 seo:
   type: stackbit_page_meta
   title: Sign Up

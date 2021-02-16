@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Beställ
 sections: []
 seo:
   title: ''

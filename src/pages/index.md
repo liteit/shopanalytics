@@ -130,7 +130,7 @@ sections:
     background: gray
     pricing_plans:
       - title: Basic
-        subtitle: lorem-ipsum
+        subtitle: För små butiker med en kamera
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum

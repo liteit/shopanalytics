@@ -60,7 +60,7 @@ sections:
       - label: lorem-ipsum
         url: lorem-ipsum
         style: secondary
-        has_icon: true
+        has_icon: false
         icon: arrow-left
         icon_position: left
         new_window: false

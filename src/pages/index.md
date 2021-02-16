@@ -224,17 +224,11 @@ sections:
       - question: >-
           Om jag aktiverar Shop Anlytics i butiker, bör jag informera  kunderna
           om förändringen!?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          Ni har ingen skyldighet att informara, men det är ändå rätt att göra
+          det. Informara om syftet och hur ni använder lösningen för att ge en
+          bättre kundupplevlese och bättre service i butiken. Vi håller på att
+          ta fram ett par dekaler som kan blir relevanta i sammanhanget. 
         type: faq_item
       - question: 'Villkor för tjänsten, betalning med mera.'
         answer: >-

@@ -222,8 +222,8 @@ sections:
           relevant och vedertaget.
         type: faq_item
       - question: >-
-          Om jag börjar använda er tjänst för att skapa en bättre
-          kundupplevelse, bör jag tala om för kunderna?
+          Om jag aktiverar Shop Anlytics i butiker, bör jag informera  kunderna
+          om förändringen!?
         answer: >-
           ## Lorem ipsum
 

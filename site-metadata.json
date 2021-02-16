@@ -17,7 +17,7 @@
             {
                 "type": "action",
                 "label": "Tjänsten",
-                "url": "/features",
+                "url": "#service-section",
                 "style": "link"
             },
             {

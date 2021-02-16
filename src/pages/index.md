@@ -156,9 +156,14 @@ sections:
       - title: Enterprise
         subtitle: För större kedjor
         price: Offert
-        details: >
-          *   *   *   Analys mellan olika butiker*   Antal besökare*  
-          Fördelning mellan kön*   Åldersfördelning
+        details: |
+          *   Analys mellan olika butiker
+
+          *   Antal besökare
+
+          *   Fördelning mellan kön
+
+          *   Åldersfördelning
         highlight: false
         actions: []
         type: pricing_plan

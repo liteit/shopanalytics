@@ -38,7 +38,7 @@ sections:
       Har ni ingen kamera så finns ett stort utbud att tillgå
 
 
-      *   Installera själv och ge kameran en publik IP adress
+      *   Installera själv, ge Shop Analytics tillgång till video
 
 
       *   Önskas installatörer så har vi samarbetspartners

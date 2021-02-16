@@ -61,7 +61,7 @@ sections:
       ## Sätt upp ny kamera
 
 
-      Har ni ingen kamera eller kamerasystem så finns ett stort utbud.
+      Har ni ingen kamera så finns ett stort utbud att tillgå
 
 
       *   Installera själv och ge kameran en publik IP adress

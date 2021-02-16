@@ -49,11 +49,11 @@ sections:
       ## Anslut befintlig kamera
 
 
-      Har ni redan en kamera eller kamerasystem som har en bra placering så
-      återanvänds video
+      Har ni redan en kamera eller kamerasystem som har en bra placering så kan
+      ni med fördel återanvända det.
 
 
-      *   Stöd för ONVIF underlättar 
+      *   Stöd för ONVIF underlättar
 
       *   Ge Shop Analytics tillång till videoström
 

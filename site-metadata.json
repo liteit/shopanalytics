@@ -55,7 +55,8 @@
                         "style": "link",
                         "url": "anavid.co",
                         "icon": "arrow-right",
-                        "icon_position": "right"
+                        "icon_position": "right",
+                        "has_icon": true
                     },
                     {
                         "type": "action",

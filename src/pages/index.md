@@ -136,8 +136,8 @@ sections:
   - section_id: contact-section
     title: Kontakta Oss
     content: >
-      Vi återkommer så snart vi kan och uppgifter används endast i syfte att
-      hjälpa er, ingen tredje part tar del av dessa.
+      Vi återkommer så snart vi kan, uppgifter används endast i syfte att
+      kontakta er, ingen tredje part tar del av dessa.
     background: gray
     form_id: formlanding
     hide_labels: false

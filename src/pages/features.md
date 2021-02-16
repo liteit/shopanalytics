@@ -29,7 +29,7 @@ sections:
         label: View Demo
         url: '#'
         style: secondary
-    image: /images/5.png
+    image: /images/wonderful-wallaby.png
   - type: section_cta
     section_id: call-to-action
     title: 'Vi älskar demo, utmana oss'

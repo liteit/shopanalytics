@@ -57,7 +57,7 @@ sections:
         style: primary
         new_window: true
   - section_id: service-section
-    title: lorem-ipsum
+    title: Låt kameran skapa värdefulla insikter
     content: >-
       ## Lorem ipsum
 

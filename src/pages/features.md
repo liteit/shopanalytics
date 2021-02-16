@@ -39,6 +39,11 @@ sections:
         type: action
     type: section_content
     image: /images/fabulous-amaranth.png
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 seo:
   type: stackbit_page_meta
   title: Features

@@ -201,7 +201,7 @@ sections:
     background: gray
   - section_id: faq-section
     title: Våra vanligaste frågor och svar
-    subtitle: Vanliga frågor och svar
+    subtitle: Har du andra frågor är du självklart välkommen att kontaka oss
     background: white
     faq_items:
       - question: Vad säger kameralagen och GDPR?

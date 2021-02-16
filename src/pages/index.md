@@ -84,7 +84,7 @@ sections:
           kopplingen till butik har varit svår att följa upp. Nu har vi tillgång
           till insikter som hjälper oss utvärdera effektivt.
   - section_id: service-section
-    title: Butikens kamera får nya superkrafter
+    title: Vi ger butikens kamera nya superkrafter
     content: >
       Shop Anaytics tjänsten är enkel att använda även om algoritmerna är
       imponerande. Ny teknik har gjord det möjligt att analysera bilder, räkna

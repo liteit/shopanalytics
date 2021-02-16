@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Tjänsten
 sections:
   - section_id: lorem-ipsum
     subtitle: lorem-ipsum

@@ -87,6 +87,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: /images/fabulous-amaranth.png
   - type: section_reviews
     section_id: reviews
     title: Vad säger våra kunder?

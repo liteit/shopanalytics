@@ -100,8 +100,8 @@ sections:
           säkerhetskamerorna relativt vedertaget. 
         type: faq_item
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Om jag börjar använda er tjänst för att skapa en bättre
+          kundupplevelse, bör jag tala om för kunderna?
         answer: >-
           ## Lorem ipsum
 

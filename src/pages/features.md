@@ -87,9 +87,7 @@ sections:
     subtitle: Vi besvarar och rätar ut ett par vanliga frågetecken
     background: white
     faq_items:
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Vad säger kameralagen och GDPR?
         answer: >-
           ## Lorem ipsum
 

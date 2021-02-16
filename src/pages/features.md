@@ -21,8 +21,7 @@ sections:
     image_alt: App preview on a phone and tablet
     background: gray
     actions:
-      - label: Price
-        url: /priceplan
+      - url: /priceplan
         style: primary
         has_icon: true
         icon: arrow-right

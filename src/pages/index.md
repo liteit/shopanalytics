@@ -211,26 +211,6 @@ sections:
     subtitle: Har du andra frågor är du självklart välkommen att kontaka oss
     background: white
     faq_items:
-      - question: Vad säger kameralagen och GDPR?
-        answer: >
-          I och med nya GDPR förordningen 2018 har det blivit lättare att sätta
-          upp kameror för övervakning i butiker, detta även utan särskilt
-          tillstånd. Däremot är det inte förenligt med att videoövervaka sin
-          personal, bara för att man kan. För detta krävs särskilda
-          omständigheter och brottsmisstanke.  Att ha en kamera riktad mot
-          kassor och eller entrén är precis som med säkerhetskamerorna både
-          relevant och vedertaget.
-        type: faq_item
-      - question: >-
-          Om jag aktiverar Shop Anlytics i butiker, bör jag informera  kunderna
-          om förändringen!?
-        answer: >
-          Ni har ingen skyldighet att informara, men det är ändå etiskt rätt att
-          göra det. Informara om syftet och hur ni använder lösningen för att ge
-          en bättre kundupplevlese / service i butiken. Vi håller på att ta fram
-          ett par dekaler som kan blir relevanta i sammanhanget, meddela
-          intresse. 
-        type: faq_item
       - question: 'Hur ser er prissättningen ut, vad betalar vi för och vad tillkommer?'
         answer: >
           Ni betalar en månadsavgift för själva videoanalysen samt presenation
@@ -252,6 +232,26 @@ sections:
 
 
           *   En installation med konfiguration kan ta ca 3 timmar
+        type: faq_item
+      - question: Vad säger kameralagen och GDPR?
+        answer: >
+          I och med nya GDPR förordningen 2018 har det blivit lättare att sätta
+          upp kameror för övervakning i butiker, detta även utan särskilt
+          tillstånd. Däremot är det inte förenligt med att videoövervaka sin
+          personal, bara för att man kan. För detta krävs särskilda
+          omständigheter och brottsmisstanke.  Att ha en kamera riktad mot
+          kassor och eller entrén är precis som med säkerhetskamerorna både
+          relevant och vedertaget.
+        type: faq_item
+      - question: >-
+          Om jag aktiverar Shop Anlytics i butiker, bör jag informera  kunderna
+          om förändringen!?
+        answer: >
+          Ni har ingen skyldighet att informara, men det är ändå etiskt rätt att
+          göra det. Informara om syftet och hur ni använder lösningen för att ge
+          en bättre kundupplevlese / service i butiken. Vi håller på att ta fram
+          ett par dekaler som kan blir relevanta i sammanhanget, meddela
+          intresse. 
         type: faq_item
     type: section_faq
   - section_id: contact-section

@@ -119,7 +119,6 @@
             {
                 "type": "footer_form",
                 "title": "Nyhetsbrev",
-                "content": "Anmäl så lägger vi till dig så snart vi kan\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [

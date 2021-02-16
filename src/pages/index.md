@@ -173,7 +173,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            url: '#landingform'
+            url: /
         type: pricing_plan
       - title: Enterprise
         subtitle: För större kedjor

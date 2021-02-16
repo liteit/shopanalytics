@@ -24,7 +24,7 @@ sections:
         image: /images/wonderful-wallaby.png
         image_alt: App preview on a phone and tablet
         actions: []
-        title: Hur många besöker butiken just nu eller hur var det i helgen?
+        title: Hur många har besökt butiken idag jämfört med i går
       - type: feature_item
         title: Vilka är på besök och när brukar de shoppa?
         content: >

@@ -25,7 +25,7 @@ export default class SectionReviews extends React.Component {
                   <h2 key={review_idx} className="cell review">
                     <div className="card">
                       <p className="crew-text">{htmlToReact(_.get(review, 'content', null))}</p>
-                      <footer className="review-footer">
+                      <footer className="crew-footer">
                         {_.get(review, 'avatar', null) && (
                         <img className="review-avatar" src={withPrefix(_.get(review, 'avatar', null))} alt={_.get(review, 'avatar_alt', null)}/>
                         )}

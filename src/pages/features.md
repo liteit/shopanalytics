@@ -5,7 +5,7 @@ sections:
     section_id: features
     title: Låt kameran skapa värdefulla insikter
     content: >
-      Principen bakom Shop Anaytics är enkel även om algoritmerna är
+      Shop Anaytics tjänsten är enkel att använda även om algoritmerna är
       imponerande. Ny teknik har gjord det möjligt att analysera bilder, räkna
       och klassificera objekt snabbt.  Video analyseras i realtid och de enda
       datapunkter som sparas i plattformen är statistik.
@@ -21,13 +21,13 @@ sections:
       *   Åldersfördelning
 
 
-      #### Internationellt erbjuder vi även 
+      #### Internationellt erbjuder vi även
 
 
       *   Räkna bort personal i butiken
 
 
-      *   Identifiering ansiktsmasker 
+      *   Identifiering ansiktsmasker
     image_alt: App preview on a phone and tablet
     background: gray
     actions:

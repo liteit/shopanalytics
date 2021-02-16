@@ -3,17 +3,14 @@ title: Features
 sections:
   - section_id: lorem-ipsum
     title: Hur funkar det?
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## Kom igång i tre steg
 
+      1.  Skapa ett Shop Analytics konto
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      2.  Anslut kamera eller videosystem
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      3.  Logga in i portal med insikter
     image_alt: lorem-ipsum
     background: gray
     actions: []

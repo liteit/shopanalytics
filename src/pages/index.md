@@ -13,6 +13,7 @@ sections:
         url: /features
         style: primary
         icon: arrow-right
+        has_icon: true
   - type: section_features
     section_id: features
     title: Visualisera butikens dolda insikter

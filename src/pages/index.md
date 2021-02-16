@@ -74,7 +74,7 @@ sections:
     image_alt: lorem-ipsum
     background: gray
     actions:
-      - label: Kom Igång
+      - label: Mer Info
         url: /features
         style: secondary
         has_icon: true

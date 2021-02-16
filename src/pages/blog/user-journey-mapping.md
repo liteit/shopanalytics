@@ -1,8 +1,6 @@
 ---
 title: Kan butiker bli mer datadrivna?
-subtitle: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+subtitle: Kan butiker bli mer datadrivna? Hur får man ihop omnichannel?
 date: '2019-03-27'
 author: src/data/authors/john-doe.yaml
 excerpt: >-

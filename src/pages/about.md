@@ -4,7 +4,7 @@ subtitle: >-
   Shop Analytics utvecklas av och driftas av Anavid, med sitt huvudkontor i
   Paris. Utöver SaaS tjänsten erbjuds konsulting inom machine learning samt AI.
   Merparent av Anavid teamet har högre akademiska studier.
-image: /images/Screenshot 2021-02-16 at 00.18.44.png
+image:
 image_alt: Grundarna
 seo:
   type: stackbit_page_meta

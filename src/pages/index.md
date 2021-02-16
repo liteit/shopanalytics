@@ -133,7 +133,7 @@ sections:
     section_id: recent-posts
     title: Latest Posts
     background: gray
-  - section_id: lorem-
+  - section_id: contact-section
     title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-

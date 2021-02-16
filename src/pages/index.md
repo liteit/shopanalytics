@@ -165,7 +165,7 @@ sections:
         type: pricing_plan
       - title: Enterprise
         subtitle: För större kedjor
-        price: lorem-ipsum
+        price: Offert
         details: >-
           ## Lorem ipsum
 

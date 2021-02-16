@@ -236,7 +236,7 @@ sections:
         type: form_field
     submit_label: Skicka
     type: section_contact
-  - section_id: lorem-ipsum
+  - section_id: faq-section
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray

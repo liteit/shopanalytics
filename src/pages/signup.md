@@ -24,12 +24,6 @@ sections:
     hide_labels: false
     form_fields:
       - input_type: text
-        options: []
-        is_required: false
-        type: form_field
-        name: contact
-        label: Kontakt
-      - input_type: text
         name: company
         label: Företag
         options: []
@@ -43,6 +37,12 @@ sections:
         is_required: true
         type: form_field
         name: offering
+      - input_type: text
+        options: []
+        is_required: false
+        type: form_field
+        name: contact
+        label: Kontakt
       - input_type: email
         label: E-post
         options: []

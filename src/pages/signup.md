@@ -20,7 +20,6 @@ sections:
     hide_labels: false
     form_fields:
       - input_type: text
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field

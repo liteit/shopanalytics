@@ -33,7 +33,6 @@ sections:
         type: form_field
       - input_type: select
         label: Erbjudande
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field

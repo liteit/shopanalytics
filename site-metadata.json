@@ -54,7 +54,8 @@
                         "label": "Om anavid",
                         "style": "link",
                         "url": "anavid.co",
-                        "icon": "arrow-right"
+                        "icon": "arrow-right",
+                        "icon_position": "right"
                     },
                     {
                         "type": "action",

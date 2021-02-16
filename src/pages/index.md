@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: "Öka försäljningen med digitaliserade\_ insikter från butiken"
+    title: Öka försäljningen med digitaliserade insikter från butiken
     content: >
       Vi erbjuder en modern SaaS lösning, inspirerad av e-handeln för alla
       fysiska butiker. Genom vår innovativa videoanalys, anonymiserad blir det

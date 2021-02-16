@@ -36,7 +36,7 @@ sections:
       Har ni ingen kamera så finns ett stort utbud att tillgå
 
 
-      *   Installera själv, ge Shop Analytics tillgång till video
+      *   Installera själv, ge tillgång till video
 
 
       *   Önskas installatörer så har vi samarbetspartners

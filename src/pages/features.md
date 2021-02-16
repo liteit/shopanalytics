@@ -53,7 +53,7 @@ sections:
 
       - dolor sit amet
     image_alt: lorem-ipsum
-    background: gray
+    background: white
     actions: []
     type: section_content
 seo:

@@ -88,7 +88,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: /images/wonderful-wallaby.png
+    image: /images/11.jpg
   - type: section_reviews
     section_id: reviews
     title: Vad säger våra kunder?

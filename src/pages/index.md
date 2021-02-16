@@ -129,7 +129,7 @@ sections:
     subtitle: >-
       Det skall vara enkelt att komma igång, därför har vi ett erbjudande
       prissatt per butik och börjar med en kamera.
-    background: gray
+    background: white
     pricing_plans:
       - title: Basic
         subtitle: För små butiker med en kamera

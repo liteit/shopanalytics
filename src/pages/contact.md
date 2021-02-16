@@ -8,7 +8,7 @@ sections:
       Vi återkommer så snart vi kan och uppgifter används endast i syfte att
       hjälpa er, ingen tredje part tar del av dessa.
     background: gray
-    form_id: contactForm
+    form_id: contactForm2
     form_fields:
       - type: form_field
         input_type: text

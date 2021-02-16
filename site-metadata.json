@@ -24,7 +24,7 @@
                 "type": "action",
                 "label": "Pris",
                 "style": "link",
-                "url": "#pricing-section"
+                "url": "/#pricing-section"
             },
             {
                 "type": "action",

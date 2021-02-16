@@ -215,10 +215,11 @@ sections:
         answer: >
           I och med nya GDPR förordningen 2018 har det blivit lättare att sätta
           upp kameror för övervakning i butiker, detta även utan särskilt
-          tillstånd. Däremot är det inte ok att videoövervaka sin personal, bara
-          för att man kan. För detta krävs särskilda omständigheter och
-          brottsmisstanke.  Att ha en kamera riktad mot kassor och entren är
-          precis som med säkerhetskamerorna relativt vedertaget.
+          tillstånd. Däremot är det inte förenligt med att videoövervaka sin
+          personal, bara för att man kan. För detta krävs särskilda
+          omständigheter och brottsmisstanke.  Att ha en kamera riktad mot
+          kassor och eller entrén är precis som med säkerhetskamerorna både
+          relevant och vedertaget.
         type: faq_item
       - question: >-
           Om jag börjar använda er tjänst för att skapa en bättre

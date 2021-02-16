@@ -144,7 +144,7 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: Name
+        label: Namn
         options: []
         is_required: false
         type: form_field

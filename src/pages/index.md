@@ -42,7 +42,7 @@ sections:
     content: >
       > Ingen personlig data sparas på individnivå, endast anonymiserad och
       aggregerad data
-    image_alt: knowcustoner
+    image_alt: know custoner
     background: white
     actions: []
     type: section_content

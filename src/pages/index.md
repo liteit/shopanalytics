@@ -134,7 +134,7 @@ sections:
     title: Latest Posts
     background: gray
   - section_id: contact-section
-    title: lorem-ipsum
+    title: lorem
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum

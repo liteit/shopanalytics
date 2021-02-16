@@ -59,7 +59,7 @@ sections:
 
 
       Har ni redan en kamera eller kamerasystem som har en bra placering så kan
-      ni med fördel återanvända det.
+      ni med fördel återanvända video
 
 
       *   Stöd för ONVIF underlättar

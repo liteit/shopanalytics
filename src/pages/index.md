@@ -45,13 +45,13 @@ sections:
     type: section_content
   - section_id: service-section
     title: Vi ger butikens kamera nya superkrafter
-    content: >
+    content: >+
       Shop Anaytics tjänsten är enkel att använda även om algoritmerna är
       imponerande.  Kamerans video analyseras i realtid och de enda datapunkter
       som sparas i vår plattform är aggregerad statistik.
 
 
-      #### I Sverige erbjuds följande insikter:
+      #### Vi erbjuder följande insikter:
 
 
       *   Antal besök
@@ -63,13 +63,14 @@ sections:
       *   Åldersfördelning
 
 
-      #### Internationellt erbjuds även
-
-
-      *   Räkna bort personal i butiken
-
-
       *   Identifiering ansiktsmasker
+
+
+      #### Utanför EU erbjuds även
+
+
+      *   Exkludera butikens personal
+
     image_alt: lorem-ipsum
     background: gray
     actions:

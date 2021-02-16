@@ -123,7 +123,7 @@ sections:
           kopplingen till butik har varit svår att följa upp. Nu har vi tillgång
           till insikter som hjälper oss utvärdera effektivt.
   - section_id: service-section
-    title: lorem-ipsum
+    title: Låt kameran skapa värdefulla insikter
     content: >-
       ## Lorem ipsum
 

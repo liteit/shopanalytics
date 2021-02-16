@@ -151,7 +151,7 @@ sections:
             url: '#landingform'
         type: pricing_plan
       - title: Professional
-        subtitle: För mindre kedjor och per per butikt
+        subtitle: För mindre kedjor och per per butik
         price: 1995 kr/mån
         details: |
           *   Antal besökare

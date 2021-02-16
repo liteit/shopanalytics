@@ -42,7 +42,7 @@ sections:
       - input_type: email
         label: E-post
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         name: email
     submit_label: lorem-ipsum

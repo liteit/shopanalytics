@@ -8,10 +8,10 @@ sections:
       Principen bakom Shop Anaytics är enkel även om algoritmerna är
       imponerande. Ny teknik har gjord det möjligt att analysera bilder, räkna
       och klassificera objekt snabbt.  Video analyseras i realtid och de enda
-      datapunkter som sparas är statistiken, dvs själva insikten. 
+      datapunkter som sparas är statistiken, dvs själva insikten.
 
 
-      #### För den Svenska marknaden erbjuder vi följande insikter:
+      #### I Sverige erbjudes följande insikter:
 
 
       *   Antalet besökare, just nu och över tid

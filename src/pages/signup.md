@@ -40,7 +40,7 @@ sections:
         type: form_field
         name: offering
       - input_type: email
-        label: lorem-ipsum
+        label: E-post
         default_value: lorem-ipsum
         options: []
         is_required: false

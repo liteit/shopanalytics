@@ -185,7 +185,7 @@ sections:
         highlight: false
         actions:
           - label: Beställ
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left

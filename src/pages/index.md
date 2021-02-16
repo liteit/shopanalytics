@@ -150,7 +150,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            url: '#landingform'
+            url: /signup
         type: pricing_plan
       - title: Professional
         subtitle: För mindre kedjor och per per butik

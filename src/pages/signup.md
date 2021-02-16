@@ -37,6 +37,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        name: Erbjudande
     submit_label: lorem-ipsum
     type: section_contact
 seo:

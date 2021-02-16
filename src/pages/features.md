@@ -39,7 +39,7 @@ sections:
       *   Installera själv, ge tillgång till video
 
 
-      *   Önskas installatörer så har vi samarbetspartners
+      *   Önskas installatör så kontakta oss
     image_alt: lorem-ipsum
     background: gray
     actions:

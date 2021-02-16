@@ -55,34 +55,6 @@ sections:
         url: 'https://calendly.com/liteit'
         style: primary
         new_window: true
-  - type: section_reviews
-    section_id: reviews
-    title: Vad säger våra kunder?
-    background: gray
-    reviews:
-      - type: review_item
-        author: Lars Olsson
-        avatar: images/review1.jpg
-        avatar_alt: Eric Widget's photo
-        content: >-
-          Med Shop Analyics har vi fått en bättre bild över våra besökare och
-          hur våra aktiviteter påverkar besöken i butiken. En sån här effektiv
-          lösning kom inte en dag för sent.
-      - type: review_item
-        author: Mia Berlin
-        avatar: images/review2.jpg
-        avatar_alt: Parsley Montana's photo
-        content: >-
-          Vår personal är fantastisk, de har ofta en bra känsla hur vi hjälper
-          kunderna, men med Shop Analytics har vi fått ett mycket bättre stöd.
-      - type: review_item
-        author: Peter Josefsson
-        avatar: images/review3.jpg
-        avatar_alt: Jonquil Von Haggerston's photo
-        content: >-
-          Vår onlineförsäljning och våra annonser har vi haft koll på, men
-          kopplingen till butik har varit svår att följa upp. Nu har vi tillgång
-          till insikter som hjälper oss utvärdera effektivt.
   - section_id: service-section
     title: Vi ger butikens kamera nya superkrafter
     content: >
@@ -128,6 +100,34 @@ sections:
         type: action
     type: section_content
     image: /images/fabulous-amaranth.png
+  - type: section_reviews
+    section_id: reviews
+    title: Vad säger våra kunder?
+    background: gray
+    reviews:
+      - type: review_item
+        author: Lars Olsson
+        avatar: images/review1.jpg
+        avatar_alt: Eric Widget's photo
+        content: >-
+          Med Shop Analyics har vi fått en bättre bild över våra besökare och
+          hur våra aktiviteter påverkar besöken i butiken. En sån här effektiv
+          lösning kom inte en dag för sent.
+      - type: review_item
+        author: Mia Berlin
+        avatar: images/review2.jpg
+        avatar_alt: Parsley Montana's photo
+        content: >-
+          Vår personal är fantastisk, de har ofta en bra känsla hur vi hjälper
+          kunderna, men med Shop Analytics har vi fått ett mycket bättre stöd.
+      - type: review_item
+        author: Peter Josefsson
+        avatar: images/review3.jpg
+        avatar_alt: Jonquil Von Haggerston's photo
+        content: >-
+          Vår onlineförsäljning och våra annonser har vi haft koll på, men
+          kopplingen till butik har varit svår att följa upp. Nu har vi tillgång
+          till insikter som hjälper oss utvärdera effektivt.
   - section_id: pricing-section
     subtitle: >-
       Det skall vara enkelt att komma igång, därför har vi ett erbjudande

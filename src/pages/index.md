@@ -157,7 +157,6 @@ sections:
       - input_type: textarea
         name: message
         label: Meddelande
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field

@@ -124,7 +124,6 @@ sections:
           kopplingen till butik har varit svår att följa upp. Nu har vi tillgång
           till insikter som hjälper oss utvärdera effektivt.
   - section_id: pricing-section
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
     pricing_plans: []

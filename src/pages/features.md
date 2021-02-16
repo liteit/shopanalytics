@@ -1,7 +1,7 @@
 ---
 title: Features
 sections:
-  - section_id: lorem-ipsum
+  - section_id: getsta
     title: Hur funkar det?
     content: |
       ## Kom igång i tre steg

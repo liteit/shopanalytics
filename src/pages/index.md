@@ -36,7 +36,7 @@ sections:
         image_alt: App users welcoming a new member
         actions: []
       - type: feature_item
-        title: 'Är det köbildning, hålls avstånd eller används ansiktsmask?'
+        title: Låt kameran skapa värdefulla insikter
         content: >
           Bevaka kön och notifiera personal automatiskt eller när avstånd
           understiger 1m. Sverige finns inget masktvång, men funktionen i sig

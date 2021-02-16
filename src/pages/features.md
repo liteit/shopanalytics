@@ -43,17 +43,17 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: 'Släng inte, återanvänd din data'
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Anslut befintlig kamera
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Har ni redan en kamera eller kamerasystem som är bra placerad så kan
+      videoströmmen återanvändas. 
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     image_alt: lorem-ipsum
     background: gray
     actions: []

@@ -43,7 +43,7 @@ sections:
         url: 'https://calendly.com/liteit'
         style: secondary
   - section_id: receo
-    title: 'Släng inte, återanvänd din data'
+    title: Återanvänd din data
     content: >
       ## Anslut befintlig kamera
 

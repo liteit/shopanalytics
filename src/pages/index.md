@@ -164,7 +164,7 @@ sections:
 
           *   Åldersfördelning
 
-          *\*\*Analys av två kameror*
+          *Analys av två kameror*
         highlight: true
         actions:
           - label: Beställ

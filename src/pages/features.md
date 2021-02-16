@@ -5,7 +5,6 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
-    title: Not
   - section_id: receo
     content: >
       ## Anslut befintlig kamera

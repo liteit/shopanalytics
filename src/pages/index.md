@@ -48,7 +48,7 @@ sections:
     content: >
       Shop Anaytics tjänsten är enkel att använda även om algoritmerna är
       imponerande.  Video analyseras i realtid och de enda datapunkter som
-      sparas i plattformen utöver inloggning är aggregerad statistik.
+      sparas i plattformen är aggregerad statistik.
 
 
       #### Vi erbjuder följande insikter:

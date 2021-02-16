@@ -136,8 +136,7 @@ sections:
         price: 1295 kr/mån
         details: |
           *   Antal besökare
-        
-          > > Fördelning mellan kön
+          * Fördelning mellan kön
           >
           > > *   Åldersfördelning
         highlight: false

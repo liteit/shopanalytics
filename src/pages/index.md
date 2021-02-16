@@ -192,6 +192,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            url: '#landingform'
         type: pricing_plan
     type: section_pricing
     title: Priser

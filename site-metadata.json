@@ -23,7 +23,8 @@
             {
                 "type": "action",
                 "label": "Pris",
-                "style": "link"
+                "style": "link",
+                "url": "#call-to-action"
             },
             {
                 "type": "action",

@@ -232,17 +232,23 @@ sections:
           intresse. 
         type: faq_item
       - question: 'Vad betalar vi för, vad tillkommer och hur ser prissättningen ut?'
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          Ni betalar en månadsavgift för själva videoanalysen samt presenation
+          av insikter i Shop Analytics portalen. 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Har ni inga kameror som kan användas för ändamålet tillkommer en
+          investering, montering samt konfiguration för dessa. 
 
 
-          - Lorem ipsum
+          *   En riktig bra kamera som ger säkra insikter kostar ca 5000 kr. 
 
-          - dolor sit amet
+
+          *   Behöver ni hjälp med installation och konfiguration av kostar det
+          ca 600 kr /timmen. 
+
+
+          *   En installation med konfiguration kan ta ca 2 timmar.  
         type: faq_item
     type: section_faq
   - section_id: contact-section

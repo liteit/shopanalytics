@@ -1,6 +1,10 @@
 ---
 title: Features
 sections:
+  - section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
   - section_id: receo
     content: >
       ## Anslut befintlig kamera
@@ -39,10 +43,6 @@ sections:
         type: action
     type: section_content
     image: /images/fabulous-amaranth.png
-  - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
 seo:
   type: stackbit_page_meta
   title: Features

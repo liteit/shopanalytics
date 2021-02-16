@@ -1,21 +1,6 @@
 ---
 title: Features
 sections:
-  - section_id: start-content
-    title: Hur funkar det?
-    content: |
-      ## Kom igång i tre steg
-
-      1.  Skapa ett Shop Analytics konto
-
-      2.  Anslut kamera eller videosystem
-
-      3.  Logga in i portal med insikter
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
-    image: /images/Shopanalytics_750_650 (1).png
   - section_id: receo
     content: >
       ## Anslut befintlig kamera

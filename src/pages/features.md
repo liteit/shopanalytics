@@ -52,10 +52,9 @@ sections:
       återanvänds video
 
 
-      *   Med stöd för ONVIF blir det mycket enkelt
+      *   Stöd för ONVIF underlättar 
 
-      *   Öppna upp relevant port i brandvägg så att Shop Analytics kan
-      analysera data
+      *   Ge Shop Analytics tillång till videoström
 
 
       ## Sätt upp ny kamera

@@ -182,7 +182,7 @@ sections:
           *   Fördelning mellan kön
 
           *   Åldersfördelning
-        highlight: true
+        highlight: false
         actions:
           - label: Beställ
             style: secondary

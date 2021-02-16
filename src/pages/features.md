@@ -41,17 +41,6 @@ sections:
         type: action
         label: Erbjudande
     image: /images/wonderful-wallaby.png
-  - type: section_cta
-    section_id: call-to-action
-    title: 'Vi älskar demo, utmana oss'
-    subtitle: >-
-      Vi demar gärna utan förpliktelser och är genuint intresserad av din
-      feedback
-    actions:
-      - type: action
-        label: Boka Demo
-        url: 'https://calendly.com/liteit'
-        style: secondary
   - section_id: receo
     title: Vi ger kameran nya superkrafter
     content: >

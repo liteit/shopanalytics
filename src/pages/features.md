@@ -12,7 +12,7 @@ sections:
 
       3.  Logga in i portal med insikter
     image_alt: lorem-ipsum
-    background: gray
+    background: white
     actions: []
     type: section_content
   - section_id: receo

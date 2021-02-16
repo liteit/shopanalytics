@@ -21,7 +21,7 @@ sections:
     image_alt: App preview on a phone and tablet
     background: gray
     actions:
-      - label: sirp
+      - label: Price
         url: /priceplan
         style: link
         has_icon: true

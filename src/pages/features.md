@@ -58,6 +58,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: /images/fabulous-amaranth.png
 seo:
   type: stackbit_page_meta
   title: Features

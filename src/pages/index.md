@@ -35,7 +35,7 @@ sections:
         image: /images/royal-lime.png
         image_alt: App users welcoming a new member
         actions: []
-  - section_id: contentsection
+  - section_id: content-section
     title: Att förstå besöken gör skillnad
     content: >
       > Ingen personlig data sparas på individnivå, endast anonymiserad och

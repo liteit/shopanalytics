@@ -122,7 +122,7 @@ sections:
           Vår onlineförsäljning och våra annonser har vi haft koll på, men
           kopplingen till butik har varit svår att följa upp. Nu har vi tillgång
           till insikter som hjälper oss utvärdera effektivt.
-  - section_id: lorem-ipsum
+  - section_id: service-section
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum

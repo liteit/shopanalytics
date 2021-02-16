@@ -21,7 +21,7 @@ sections:
     image_alt: App preview on a phone and tablet
     background: gray
     actions:
-      - label: lorem-ipsum
+      - label: sirp
         url: lorem-ipsum
         style: link
         has_icon: false

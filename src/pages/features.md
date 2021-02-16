@@ -53,7 +53,7 @@ sections:
         url: 'https://calendly.com/liteit'
         style: secondary
   - section_id: receo
-    title: Koppla upp och koppla av med nya superkrafter
+    title: Vi ger kameran nya superkrafter
     content: >
       ## Anslut befintlig kamera
 

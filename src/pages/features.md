@@ -53,7 +53,7 @@ sections:
         url: 'https://calendly.com/liteit'
         style: secondary
   - section_id: receo
-    title: "Ge kameralösningen\_ nya superkrafter"
+    title: "Ge butiken nya\_ superkrafter"
     content: >
       ## Anslut befintlig kamera
 

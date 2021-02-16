@@ -231,7 +231,7 @@ sections:
           ett par dekaler som kan blir relevanta i sammanhanget, meddela
           intresse. 
         type: faq_item
-      - question: 'Villkor för tjänsten, betalning med mera.'
+      - question: 'Vad betalar vi för, vad tillkommer och hur ser prissättningen ut?'
         answer: >-
           ## Lorem ipsum
 

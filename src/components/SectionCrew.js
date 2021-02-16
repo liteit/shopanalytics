@@ -18,7 +18,7 @@ export default class SectionReviews extends React.Component {
                 </p>
                 )}
               </div>
-              {_.get(section, 'reviews', null) && (
+              {_.get(section, 'crews', null) && (
               <div className="inner">
                 <div className="grid">
                   {_.map(_.get(section, 'crews', null), (review, review_idx) => (

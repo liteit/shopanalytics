@@ -141,7 +141,6 @@ sections:
         highlight: false
         actions:
           - label: Beställ
-            url: lorem-ipsum
             style: link
             has_icon: false
             icon: arrow-left

@@ -48,10 +48,10 @@ sections:
 
 
       Har ni redan en kamera eller kamerasystem som är bra placerad så kan
-      videoströmmen återanvändas. 
+      videoströmmen återanvändas.
 
 
-      *   Lorem ipsum
+      *   Med ONIF
 
       *   dolor sit amet
     image_alt: lorem-ipsum

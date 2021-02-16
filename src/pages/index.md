@@ -148,7 +148,7 @@ sections:
         type: pricing_plan
       - title: Professional
         subtitle: För mindre kedjor och per per butik
-        price: lorem-ipsum
+        price: 1295 kr/mån
         details: >-
           ## Lorem ipsum
 

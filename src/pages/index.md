@@ -82,6 +82,18 @@ sections:
     background: white
     actions: []
     type: section_content
+  - type: section_cta
+    section_id: call-to-action
+    title: 'Vi älskar demo, utmana oss'
+    subtitle: >-
+      Vi demar gärna utan förpliktelser och är genuint intresserad av din
+      feedback
+    actions:
+      - type: action
+        label: Boka Demo
+        url: 'https://calendly.com/liteit'
+        style: primary
+        new_window: true
   - type: section_reviews
     section_id: reviews
     title: Vad säger våra kunder?
@@ -117,18 +129,6 @@ sections:
     background: gray
     pricing_plans: []
     type: section_pricing
-  - type: section_cta
-    section_id: call-to-action
-    title: 'Vi älskar demo, utmana oss'
-    subtitle: >-
-      Vi demar gärna utan förpliktelser och är genuint intresserad av din
-      feedback
-    actions:
-      - type: action
-        label: Boka Demo
-        url: 'https://calendly.com/liteit'
-        style: primary
-        new_window: true
   - type: section_posts
     section_id: recent-posts
     title: Latest Posts

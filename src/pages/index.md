@@ -154,9 +154,9 @@ sections:
         subtitle: För mindre kedjor och per per butik
         price: 1995 kr/mån
         details: |
-          *   Antal besökare
-          *   Fördelning mellan kön
-          *   Åldersfördelning
+          *  Antal besökare
+          *  Fördelning mellan kön
+          *  Åldersfördelning
 
           *(Analys av två kameror)*
         highlight: true

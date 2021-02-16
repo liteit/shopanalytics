@@ -162,7 +162,6 @@ sections:
         highlight: false
         actions:
           - label: Beställ
-            url: lorem-ipsum
             style: primary
             has_icon: false
             icon: arrow-left

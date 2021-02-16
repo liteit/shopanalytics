@@ -92,7 +92,7 @@ sections:
       datapunkter som sparas i plattformen är statistik.
 
 
-      #### I Sverige tillhandahålls följande insikter:
+      #### I Sverige erbjuds följande insikter:
 
 
       *   Antalet besökare, just nu och över tid

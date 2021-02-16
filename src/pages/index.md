@@ -139,7 +139,7 @@ sections:
       Vi återkommer så snart vi kan och uppgifter används endast i syfte att
       hjälpa er, ingen tredje part tar del av dessa.
     background: gray
-    form_id: lorem-form
+    form_id: contactform
     form_action: lorem-ipsum
     hide_labels: false
     form_fields: []

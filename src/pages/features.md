@@ -12,7 +12,7 @@ sections:
 
       3.  Logga in i portal med insikter
     image_alt: lorem-ipsum
-    background: white
+    background: gray
     actions: []
     type: section_content
     image: /images/Shopanalytics_750_650 (1).png

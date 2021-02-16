@@ -128,6 +128,7 @@ sections:
     background: gray
     pricing_plans: []
     type: section_pricing
+    title: Priser
   - type: section_posts
     section_id: recent-posts
     title: Latest Posts

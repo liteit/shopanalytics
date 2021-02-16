@@ -199,6 +199,49 @@ sections:
     section_id: recent-posts
     title: Latest Posts
     background: gray
+  - section_id: faq-section
+    title: FAQ
+    subtitle: Vanliga frågor och svar
+    background: white
+    faq_items:
+      - question: Vad säger kameralagen och GDPR?
+        answer: >
+          I och med nya GDPR förordningen 2017 har det blivit lättare att sätta
+          upp kameror för övervakning i butiker, detta även utan särskilt
+          tillstånd. Däremot är det inte ok att videoövervaka sin personal, bara
+          för att man kan. För detta krävs särskilda omständigheter och
+          brottsmisstanke.  Att ha en kamera riktad mot kassor och entren är
+          precis som med säkerhetskamerorna relativt vedertaget.
+        type: faq_item
+      - question: >-
+          Om jag börjar använda er tjänst för att skapa en bättre
+          kundupplevelse, bör jag tala om för kunderna?
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        type: faq_item
+      - question: 'Villkor för tjänsten, betalning med mera.'
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        type: faq_item
+    type: section_faq
   - section_id: contact-section
     title: Kontakta Oss
     content: >
@@ -236,51 +279,6 @@ sections:
         type: form_field
     submit_label: Skicka
     type: section_contact
-  - section_id: faq-section
-    title: FAQ
-    subtitle: Vanliga frågor och svar
-    background: white
-    faq_items:
-      - question: Vad säger kameralagen och GDPR?
-        answer: >
-          I och med nya GDPR förordningen 2017 har det blivit lättare att sätta
-          upp kameror för övervakning i butiker, detta även utan särskilt
-          tillstånd. Däremot är det inte ok att videoövervaka sin personal, bara
-          för att man kan. För detta krävs särskilda omständigheter och
-          brottsmisstanke.  Att ha en kamera riktad mot kassor och entren är
-          precis som med säkerhetskamerorna relativt vedertaget.
-        type: faq_item
-      - question: >-
-          Om jag börjar använda er tjänst för att skapa en bättre
-          kundupplevelse, bör jag tala om för kunderna?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        type: faq_item
-    type: section_faq
 seo:
   type: stackbit_page_meta
   title: Shopanalytics landing

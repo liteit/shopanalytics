@@ -82,7 +82,7 @@ sections:
         type: action
     type: section_content
     image: /images/fabulous-amaranth.png
-  - section_id: lorem-ipsum
+  - section_id: faq
     title: Frågor och Svar
     subtitle: Vi besvarar och rätar ut ett par vanliga frågetecken
     background: white

@@ -44,7 +44,7 @@ sections:
     actions: []
     type: section_content
   - section_id: service-section
-    title: Vi ger butikens kamera nya superkrafter
+    title: Butikens kamera får nya superkrafter
     content: >+
       Shop Anaytics tjänsten är enkel att använda även om algoritmerna är
       imponerande.  Kamerans video analyseras i realtid och de enda datapunkter

@@ -2,7 +2,7 @@
 title: Beställ
 sections:
   - section_id: orderSection
-    title: lorem-ipsum
+    title: Beställ
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum

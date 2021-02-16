@@ -20,7 +20,7 @@ sections:
     hide_labels: false
     form_fields:
       - input_type: text
-        label: lorem-ipsum
+        label: Kontalt
         default_value: lorem-ipsum
         options: []
         is_required: false

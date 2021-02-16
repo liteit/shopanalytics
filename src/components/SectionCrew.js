@@ -27,7 +27,7 @@ export default class SectionReviews extends React.Component {
                       <p className="crew-text">{htmlToReact(_.get(review, 'content', null))}</p>
                       <footer className="crew-footer">
                         {_.get(review, 'avatar', null) && (
-                        <img className="review-avatar" src={withPrefix(_.get(review, 'avatar', null))} alt={_.get(review, 'avatar_alt', null)}/>
+                        <img className="crew-avatar" src={withPrefix(_.get(review, 'avatar', null))} alt={_.get(review, 'avatar_alt', null)}/>
                         )}
                         <cite className="review-author">{_.get(review, 'author', null)}</cite>
                       </footer>

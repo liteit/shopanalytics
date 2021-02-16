@@ -1,46 +1,6 @@
 ---
 title: Features
 sections:
-  - type: section_content
-    section_id: features
-    title: Låt kameran skapa värdefulla insikter
-    content: >
-      Shop Anaytics tjänsten är enkel att använda även om algoritmerna är
-      imponerande. Ny teknik har gjord det möjligt att analysera bilder, räkna
-      och klassificera objekt snabbt.  Video analyseras i realtid och de enda
-      datapunkter som sparas i plattformen är statistik.
-
-
-      #### I Sverige erbjudes vi följande insikter:
-
-
-      *   Antalet besökare, just nu och över tid
-
-      *   Fördelning mellan kön
-
-      *   Åldersfördelning
-
-
-      #### Internationellt erbjuder vi även
-
-
-      *   Räkna bort personal i butiken
-
-
-      *   Identifiering ansiktsmasker
-    image_alt: App preview on a phone and tablet
-    background: gray
-    actions:
-      - url: /pricing
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-        label: Erbjudande
-    image: /images/wonderful-wallaby.png
   - section_id: receo
     title: Vi ger kameran nya superkrafter
     content: >

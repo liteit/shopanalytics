@@ -26,7 +26,7 @@ sections:
         name: contact
         label: Kontakt
       - input_type: text
-        name: lorem-ipsum
+        name: Företag
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []

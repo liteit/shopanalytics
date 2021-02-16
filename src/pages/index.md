@@ -43,18 +43,6 @@ sections:
     background: white
     actions: []
     type: section_content
-  - type: section_cta
-    section_id: call-to-action
-    title: 'Vi älskar demos, utmana oss'
-    subtitle: >-
-      Vi demar gärna utan förpliktelser och är genuint intresserad av din
-      feedback
-    actions:
-      - type: action
-        label: Boka Demo
-        url: 'https://calendly.com/liteit'
-        style: primary
-        new_window: true
   - section_id: service-section
     title: Vi ger butikens kamera nya superkrafter
     content: >
@@ -100,6 +88,18 @@ sections:
         type: action
     type: section_content
     image: /images/fabulous-amaranth.png
+  - type: section_cta
+    section_id: call-to-action
+    title: 'Vi älskar demos, utmana oss'
+    subtitle: >-
+      Vi demar gärna utan förpliktelser och är genuint intresserad av din
+      feedback
+    actions:
+      - type: action
+        label: Boka Demo
+        url: 'https://calendly.com/liteit'
+        style: primary
+        new_window: true
   - type: section_reviews
     section_id: reviews
     title: Vad säger våra kunder?

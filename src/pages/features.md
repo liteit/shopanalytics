@@ -18,7 +18,7 @@ sections:
       ## Sätt upp ny kamera
 
 
-      Har ni ingen kamera så finns ett stort utbud att tillgå
+      Har ni ingen kamera så finns ett stort utbud
 
 
       *   Installera själv, ge tillgång till video

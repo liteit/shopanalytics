@@ -162,7 +162,9 @@ sections:
         type: form_field
       - input_type: text
         name: consent
-        label: lorem-ipsum
+        label: >-
+          Jag förstår att detta formulär sparar mina uppgifter så jag kan bli
+          kontaktad
         options: []
         is_required: true
         type: form_field

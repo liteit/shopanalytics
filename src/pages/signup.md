@@ -1,7 +1,7 @@
 ---
 title: Beställ
 sections:
-  - section_id: ordersection
+  - section_id: orderSection
     title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-

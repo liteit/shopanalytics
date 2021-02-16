@@ -132,17 +132,12 @@ sections:
       - title: Basic
         subtitle: För små butiker med en kamera
         price: 1295 kr/mån
-        details: >-
-          ## Lorem ipsum
+        details: |
+          *   Antal besökare
 
+          *   Fördelning mellan kön
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Åldersfördelning
         highlight: false
         actions: []
         type: pricing_plan

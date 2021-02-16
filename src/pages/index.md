@@ -163,7 +163,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: lorem-ipsum
+      - title: Enterprise
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-

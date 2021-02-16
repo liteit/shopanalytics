@@ -231,7 +231,7 @@ sections:
           ett par dekaler som kan blir relevanta i sammanhanget, meddela
           intresse. 
         type: faq_item
-      - question: 'Vad betalar vi för, vad tillkommer och hur ser prissättningen ut?'
+      - question: 'Hur ser er prissättningen ut, vad betalar vi för och vad tillkommer?'
         answer: >
           Ni betalar en månadsavgift för själva videoanalysen samt presenation
           av insikter i Shop Analytics portalen. 

@@ -144,17 +144,14 @@ sections:
       - title: Professional
         subtitle: För mindre kedjor och per per butik
         price: 1995 kr/mån
-        details: >-
-          ## Lorem ipsum
+        details: |
+          *
 
+          *   Antal besökare
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Fördelning mellan kön
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+              *   Åldersfördelning
         highlight: false
         actions: []
         type: pricing_plan

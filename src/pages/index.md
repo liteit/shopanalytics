@@ -135,17 +135,15 @@ sections:
     background: gray
   - section_id: contact-section
     title: Kontakta Oss
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Lorem 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      dolor sit amet
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Vi återkommer så snart vi kan och uppgifter används endast i syfte att
+      hjälpa er, ingen tredje part tar del av dessa.
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum

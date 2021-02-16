@@ -129,7 +129,7 @@ sections:
       prissatt per butik och börjar med en kamera.
     background: gray
     pricing_plans:
-      - title: lorem-ipsum
+      - title: Basic
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-

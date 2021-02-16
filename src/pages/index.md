@@ -42,7 +42,7 @@ sections:
           understiger 1m. Sverige finns inget masktvång, men funktionen i sig
           illustrerar vilka möjligheter som finns med Shop Analytics platform
           för att bli mer proaktiv och skapa en bättre kundupplevelse.
-        image: /images/energetic-owl.png
+        image: /images/wonderful-wallaby.png
         image_alt: App user profile preview
         actions:
           - type: action

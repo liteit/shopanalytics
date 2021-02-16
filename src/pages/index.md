@@ -115,7 +115,7 @@ sections:
     background: white
     actions:
       - label: Mer info
-        url: /featires
+        url: /features
         style: link
         has_icon: false
         icon: arrow-left

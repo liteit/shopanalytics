@@ -51,7 +51,7 @@ sections:
         name: email
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Telefon
         default_value: lorem-ipsum
         options: []
         is_required: false

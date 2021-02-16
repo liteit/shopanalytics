@@ -124,17 +124,32 @@ sections:
           till insikter som hjälper oss utvärdera effektivt.
   - section_id: service-section
     title: Låt kameran skapa värdefulla insikter
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Tjänsten är enkel att använda även om algoritmerna bakom är avancerade. Ny
+      teknik har gjord det möjligt att analysera bilder, räkna och klassificera
+      objekt snabbt.  Video analyseras i realtid och de enda datapunkter som
+      sparas i plattformen är statistik.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      #### I Sverige erbjudes vi följande insikter:
 
 
-      - Lorem ipsum
+      *   Antalet besökare, just nu och över tid
 
-      - dolor sit amet
+
+      *   Fördelning mellan kön
+
+
+      *   Åldersfördelning
+
+
+      #### Internationellt erbjuder vi även
+
+
+      *   Räkna bort personal i butiken
+
+
+      *   Identifiering ansiktsmasker
     image_alt: lorem-ipsum
     background: gray
     actions: []

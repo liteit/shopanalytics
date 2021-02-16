@@ -23,7 +23,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-        name: Kontakt
+        name: contact
         label: Kontakt
     submit_label: lorem-ipsum
     type: section_contact

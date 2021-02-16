@@ -11,7 +11,7 @@ sections:
       datapunkter som sparas i plattformen är statistik.
 
 
-      #### I Sverige erbjudes följande insikter:
+      #### I Sverige erbjudes vi följande insikter:
 
 
       *   Antalet besökare, just nu och över tid
@@ -19,6 +19,15 @@ sections:
       *   Fördelning mellan kön
 
       *   Åldersfördelning
+
+
+      #### Internationellt erbjuder vi även 
+
+
+      *   Räkna bort personal i butiken
+
+
+      *   Identifiering ansiktsmasker 
     image_alt: App preview on a phone and tablet
     background: gray
     actions:

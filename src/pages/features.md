@@ -2,7 +2,7 @@
 title: Features
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Hur funkar det?
     content: >-
       ## Lorem ipsum
 

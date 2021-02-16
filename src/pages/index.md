@@ -147,7 +147,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: Professional
-        subtitle: lorem-ipsum
+        subtitle: För mindre kedjor och per per butik
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum

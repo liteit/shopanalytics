@@ -236,6 +236,12 @@ sections:
         type: form_field
     submit_label: Skicka
     type: section_contact
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    faq_items: []
+    type: section_faq
 seo:
   type: stackbit_page_meta
   title: Shopanalytics landing

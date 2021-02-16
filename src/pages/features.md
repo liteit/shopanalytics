@@ -52,22 +52,22 @@ sections:
       återanvänds video
 
 
-      *   Shop Analytics är komatibel med ONVIF protokollet  
+      *   Med stöd för ONVIF blir det mycket enkelt
 
-      *   dolor sit amet
+      *   Öppna upp relevant port i brandvägg så att Shop Analytics kan
+      analysera data
 
 
       ## Sätt upp ny kamera
 
 
-      Har ni ingen kamera eller kamerasystem så finns ett stort utbud. 
+      Har ni ingen kamera eller kamerasystem så finns ett stort utbud.
 
 
-      *   Installera själv och konfigurera kameran
+      *   Installera själv och ge kameran en publik IP adress
 
 
-      *   Vi erbjuder samarbetspartners som bistår vid en installation och
-      konfiguration  
+      *   Önskas installatörer så har vi samarbetspartners
     image_alt: lorem-ipsum
     background: gray
     actions:

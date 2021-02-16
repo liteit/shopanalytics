@@ -28,7 +28,6 @@ sections:
       - input_type: text
         name: company
         label: Företag
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field

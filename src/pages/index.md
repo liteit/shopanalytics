@@ -284,11 +284,9 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Shopanalytics landing
-  description: >-
+  description: >
     Shop analytics erbjuder en google analytics fast för fysiska butiker.
     Lösningen baseras på bildanalys där butikens kamera återanvänds.   
-
-    nsikter som leder till ökad försäljning
   extra:
     - name: 'og:type'
       value: website

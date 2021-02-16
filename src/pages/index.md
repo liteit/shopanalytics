@@ -42,6 +42,15 @@ sections:
     content: >
       > Ingen personlig data sparas på individnivå, endast anonymiserad
       aggregerad data
+
+      >
+
+      >  
+
+      >
+
+      > Shop Analytics tillämpar primärt så kallad bildanalys och lagrar ingen
+      biometrisk data som är förekommande vid biligenkänning
     image_alt: know custoner
     background: white
     actions: []

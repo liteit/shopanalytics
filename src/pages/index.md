@@ -128,7 +128,7 @@ sections:
     background: gray
     pricing_plans: []
     type: section_pricing
-    title: Priplaner
+    title: Prisplan
   - type: section_posts
     section_id: recent-posts
     title: Latest Posts

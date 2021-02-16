@@ -89,7 +89,7 @@ sections:
     image: /images/fabulous-amaranth.png
   - type: section_cta
     section_id: call-to-action
-    title: 'Vi älskar demos, utmana oss'
+    title: Låt oss visa vad ni får ...
     subtitle: >-
       Vi demar gärna utan förpliktelser och är genuint intresserad av din
       feedback

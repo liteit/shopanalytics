@@ -48,13 +48,26 @@ sections:
       ## Anslut befintlig kamera
 
 
-      Har ni redan en kamera eller kamerasystem som är bra placerad så kan
-      videoströmmen återanvändas.
+      Har ni redan en kamera eller kamerasystem som har en bra placering så
+      återanvänds video
 
 
-      *   Med ONIF
+      *   Shop Analytics är komatibel med ONVIF protokollet  
 
       *   dolor sit amet
+
+
+      ## Sätt upp ny kamera
+
+
+      Har ni ingen kamera eller kamerasystem så finns ett stort utbud. 
+
+
+      *   Installera själv och konfigurera kameran
+
+
+      *   Vi erbjuder samarbetspartners som bistår vid en installation och
+      konfiguration  
     image_alt: lorem-ipsum
     background: gray
     actions:

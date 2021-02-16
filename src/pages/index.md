@@ -255,8 +255,8 @@ sections:
   - section_id: contact-section
     title: Kontakta Oss
     content: >
-      Uppgifter används endast i syfte att kontakta er, delas ej med tredje
-      part.
+      Uppgifter används endast i syfte att kontakta er, delas ej med tredje part
+      utan medgivande. 
     background: gray
     form_id: contactForm
     hide_labels: false

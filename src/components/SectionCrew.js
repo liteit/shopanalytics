@@ -29,7 +29,7 @@ export default class SectionReviews extends React.Component {
                         {_.get(review, 'avatar', null) && (
                         <img className="crew-avatar" src={withPrefix(_.get(review, 'avatar', null))} alt={_.get(review, 'avatar_alt', null)}/>
                         )}
-                        <cite className="review-author">{_.get(review, 'author', null)}</cite>
+                        <cite className="crew-author">{_.get(review, 'author', null)}</cite>
                       </footer>
                     </div>
                   </h2>

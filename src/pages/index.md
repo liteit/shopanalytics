@@ -184,7 +184,7 @@ sections:
           *   Åldersfördelning
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Beställ
             url: lorem-ipsum
             style: link
             has_icon: false

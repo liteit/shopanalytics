@@ -19,6 +19,7 @@ sections:
 
       *   Åldersfördelning
     image_alt: App preview on a phone and tablet
+    image_
     background: gray
     actions:
       - url: /priceplan

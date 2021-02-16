@@ -45,6 +45,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        name: email
     submit_label: lorem-ipsum
     type: section_contact
 seo:

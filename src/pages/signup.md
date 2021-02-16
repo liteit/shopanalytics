@@ -34,7 +34,7 @@ sections:
       - input_type: select
         label: Erbjudande
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         name: offering
     submit_label: lorem-ipsum

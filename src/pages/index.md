@@ -122,6 +122,23 @@ sections:
           Vår onlineförsäljning och våra annonser har vi haft koll på, men
           kopplingen till butik har varit svår att följa upp. Nu har vi tillgång
           till insikter som hjälper oss utvärdera effektivt.
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
   - section_id: pricing-section
     subtitle: >-
       Det skall vara enkelt att komma igång, därför har vi ett erbjudande
@@ -279,23 +296,6 @@ sections:
         type: form_field
     submit_label: Skicka
     type: section_contact
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
 seo:
   type: stackbit_page_meta
   title: Shopanalytics landing

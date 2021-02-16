@@ -1,5 +1,5 @@
 ---
-title: Tjänsten
+title: Shop Analytics
 sections:
   - section_id: lorem-ipsum
     subtitle: lorem-ipsum

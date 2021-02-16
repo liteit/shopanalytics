@@ -4,7 +4,7 @@ subtitle: >-
   Vad säger kameralagen? Får man använda övervakningsvideon till nya
   användningsområden?
 date: '2021-01-03'
-author: src/data/authors/john-doe.yaml
+author: src/data/authors/david.yaml
 excerpt: >-
   Vad säger kameralagenKan man använda sin existerande video till nya
   användningsområden?

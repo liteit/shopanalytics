@@ -168,7 +168,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-    submit_label: lorem-ipsum
+    submit_label: Skicka
     type: section_contact
 seo:
   type: stackbit_page_meta

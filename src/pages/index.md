@@ -75,7 +75,7 @@ sections:
       Er videoström analyseras i realtid och de enda datapunkter som sparas vår
       plattform är statistik.
     image_alt: lorem-ipsum
-    background: white
+    background: gray
     actions:
       - label: Mer info
         url: /features

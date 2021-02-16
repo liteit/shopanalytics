@@ -16,7 +16,7 @@
             },
             {
                 "type": "action",
-                "label": "Vår lösning",
+                "label": "Tjänsten",
                 "url": "/features",
                 "style": "link"
             },

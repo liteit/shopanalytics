@@ -29,7 +29,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: Våra Priser
+        label: Erbjudande
     image: /images/wonderful-wallaby.png
   - type: section_cta
     section_id: call-to-action

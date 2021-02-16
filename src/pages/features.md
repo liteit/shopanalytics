@@ -2,7 +2,7 @@
 title: Features
 sections:
   - section_id: receo
-    title: Vi ger kameran nya superkrafter
+    title: Hur funkar det?
     content: >
       ## Anslut befintlig kamera
 

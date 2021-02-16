@@ -50,8 +50,8 @@ sections:
     title: Ge butikens kamera nya superkrafter
     content: >
       Shop Anaytics tjänsten är enkel att använda även om algoritmerna under
-      huven är avancerade.  Video analyseras i realtid och de enda datapunkter
-      som sparas i plattformen är aggregerad statistik.
+      huven är avancerade.  Video från butiken analyseras i realtid och det som
+      sparas i plattformen är endast aggregerad statistik.
 
 
       #### Vi erbjuder följande insikter:

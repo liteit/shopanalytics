@@ -1,11 +1,6 @@
 ---
 title: Shop Analytics
 sections:
-  - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
-    title: Shop Analytics bildanalys
   - section_id: receo
     content: >
       ## Anslut befintlig kamera

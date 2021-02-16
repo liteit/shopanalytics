@@ -75,7 +75,7 @@ sections:
         url: /contact
         style: secondary
         has_icon: true
-        icon: arrow-left
+        icon: envelope
         icon_position: right
         new_window: false
         no_follow: false

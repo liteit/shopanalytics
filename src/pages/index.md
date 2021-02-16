@@ -45,10 +45,10 @@ sections:
     type: section_content
   - section_id: service-section
     title: Vi ger butikens kamera nya superkrafter
-    content: >
+    content: >+
       Shop Anaytics tjänsten är enkel att använda även om algoritmerna är
-      imponerande. Ny teknik har gjord det möjligt att analysera bilder, räkna
-      och klassificera objekt snabbt.
+      imponerande.  Kamerans video analyseras i realtid och de enda datapunkter
+      som sparas vår plattform är statistik.
 
 
       #### I Sverige erbjuds följande insikter:
@@ -71,9 +71,6 @@ sections:
 
       *   Identifiering ansiktsmasker
 
-
-      Er videoström analyseras i realtid och de enda datapunkter som sparas vår
-      plattform är statistik.
     image_alt: lorem-ipsum
     background: gray
     actions:

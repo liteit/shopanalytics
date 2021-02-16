@@ -45,10 +45,10 @@ sections:
     type: section_content
   - section_id: service-section
     title: Butikens kamera får nya superkrafter
-    content: >+
+    content: >
       Shop Anaytics tjänsten är enkel att använda även om algoritmerna är
-      imponerande.  Kamerans video analyseras i realtid och de enda datapunkter
-      som sparas i vår plattform är aggregerad statistik.
+      imponerande.  Video analyseras i realtid och de enda datapunkter som
+      sparas i plattformen utöver inloggning är aggregerad statistik.
 
 
       #### Vi erbjuder följande insikter:
@@ -70,7 +70,6 @@ sections:
 
 
       *   Exkludera butikens personal
-
     image_alt: lorem-ipsum
     background: gray
     actions:

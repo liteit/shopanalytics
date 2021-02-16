@@ -50,7 +50,7 @@ sections:
         type: form_field
         name: email
       - input_type: text
-        name: Telefon
+        name: phone
         label: Telefon
         options: []
         is_required: false

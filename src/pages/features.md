@@ -19,7 +19,6 @@ sections:
     actions: []
     type: section_content
   - section_id: receo
-    title: Hur funkar det?
     content: >
       ## Anslut befintlig kamera
 

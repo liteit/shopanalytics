@@ -140,7 +140,6 @@ sections:
       hjälpa er, ingen tredje part tar del av dessa.
     background: gray
     form_id: formlanding
-    form_action: lorem-ipsum
     hide_labels: false
     form_fields: []
     submit_label: lorem-ipsum

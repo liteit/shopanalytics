@@ -1,7 +1,7 @@
 ---
 title: Kan butiker bli mer datadrivna?
 subtitle: Kan butiker bli mer datadrivna? Hur får man ihop omnichannel?
-date: '2019-03-27'
+date: '2021-01-27'
 author: src/data/authors/john-doe.yaml
 excerpt: >-
   Konvertering online är noga planerad och resultat mäts löpande mot riktag

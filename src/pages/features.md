@@ -1,7 +1,7 @@
 ---
 title: Features
 sections:
-  - section_id: getsta
+  - section_id: start-content
     title: Hur funkar det?
     content: |
       ## Kom igång i tre steg

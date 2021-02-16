@@ -56,7 +56,7 @@ sections:
         url: 'https://calendly.com/liteit'
         style: primary
         new_window: true
-  - section_id: lorem-section
+  - section_id: service-section
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum

@@ -250,7 +250,7 @@ sections:
       Uppgifter används endast i syfte att kontakta er, information  delas inte
       med tredje part utan ert medgivande. 
     background: gray
-    form_id: formlanding
+    form_id: contactForm
     hide_labels: false
     form_fields:
       - input_type: text

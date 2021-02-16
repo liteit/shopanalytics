@@ -200,7 +200,7 @@ sections:
     title: Latest Posts
     background: gray
   - section_id: faq-section
-    title: FAQ
+    title: Våra vanligaste frågor och svar
     subtitle: Vanliga frågor och svar
     background: white
     faq_items:

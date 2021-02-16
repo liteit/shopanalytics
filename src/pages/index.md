@@ -43,7 +43,7 @@ sections:
     background: white
     actions: []
     type: section_content
-  - section_id: service-section
+  - section_id: s-section
     title: Vi ger butikens kamera nya superkrafter
     content: >+
       Shop Anaytics tjänsten är enkel att använda även om algoritmerna är

@@ -238,7 +238,7 @@ sections:
     type: section_contact
   - section_id: faq-section
     title: FAQ
-    subtitle: lorem-ipsum
+    subtitle: Vanliga frågor och svar
     background: gray
     faq_items: []
     type: section_faq

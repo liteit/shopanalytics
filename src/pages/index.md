@@ -35,23 +35,6 @@ sections:
         image: /images/royal-lime.png
         image_alt: App users welcoming a new member
         actions: []
-      - type: feature_item
-        title: Låt kameran skapa värdefulla insikter
-        content: >
-          Bevaka kön och notifiera personal automatiskt eller när avstånd
-          understiger 1m. Sverige finns inget masktvång, men funktionen i sig
-          illustrerar vilka möjligheter som finns med Shop Analytics platform
-          för att bli mer proaktiv och skapa en bättre kundupplevelse.
-        image: /images/wonderful-wallaby.png
-        image_alt: App user profile preview
-        actions:
-          - type: action
-            label: Läs mer
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
   - section_id: contentsection
     title: Att förstå besöken gör skillnad
     content: >

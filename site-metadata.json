@@ -135,7 +135,8 @@
                 "url": "/privacy-policy",
                 "style": "link"
             }
-        ]
+        ],
+        "content": "Copy"
     },
     "domain": "https://airvent.one",
     "favicon": "/images/favicon-32x32.png"

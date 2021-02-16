@@ -24,6 +24,7 @@ sections:
         is_required: false
         type: form_field
         name: Kontakt
+        label: Kontakt
     submit_label: lorem-ipsum
     type: section_contact
 seo:

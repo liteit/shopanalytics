@@ -41,7 +41,6 @@ sections:
         name: offering
       - input_type: email
         label: E-post
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field

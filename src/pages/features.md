@@ -1,6 +1,22 @@
 ---
 title: Shop Analytics
 sections:
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    actions: []
+    type: section_hero
   - section_id: receo
     content: >
       ## Anslut befintlig kamera
@@ -39,22 +55,6 @@ sections:
         type: action
     type: section_content
     image: /images/fabulous-amaranth.png
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    image_alt: lorem-ipsum
-    actions: []
-    type: section_hero
 seo:
   type: stackbit_page_meta
   title: Features

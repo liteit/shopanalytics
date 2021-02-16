@@ -29,7 +29,7 @@ sections:
     background: gray
     actions:
       - label: Kontakta Oss
-        url: /
+        url: '/#contactForm'
         style: secondary
         has_icon: true
         icon: envelope

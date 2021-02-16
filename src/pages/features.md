@@ -85,7 +85,7 @@ sections:
   - section_id: lorem-ipsum
     title: Frågor och Svar
     subtitle: Vi besvarar och rätar ut ett par vanliga frågetecken
-    background: gray
+    background: white
     faq_items: []
     type: section_faq
 seo:

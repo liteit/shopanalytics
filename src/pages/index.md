@@ -14,6 +14,7 @@ sections:
         style: primary
         icon: arrow-right
         has_icon: true
+        icon_position: right
   - type: section_features
     section_id: features
     title: Visualisera butikens dolda insikter

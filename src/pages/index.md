@@ -302,8 +302,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Shop Analytics
-    - name: 'twitter:description'
-      value: The preview of the Azimuth theme
     - name: 'twitter:image'
       value: /images/Shopanalytics1200_900.png
       relativeUrl: true

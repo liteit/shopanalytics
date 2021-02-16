@@ -41,7 +41,7 @@ sections:
         label: Boka Demo
         url: 'https://calendly.com/liteit'
         style: secondary
-  - section_id: lorem-ipsum
+  - section_id: rec
     title: 'Släng inte, återanvänd din data'
     content: >
       ## Anslut befintlig kamera

@@ -160,7 +160,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: text
+      - input_type: checkbox
         name: consent
         label: >-
           Jag förstår att detta formulär sparar mina uppgifter så jag kan bli

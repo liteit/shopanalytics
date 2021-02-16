@@ -46,6 +46,7 @@ sections:
         type: form_field
         name: email
     type: section_contact
+    submit_label: Beställ
 seo:
   title: ''
   description: ''

@@ -251,7 +251,7 @@ sections:
       med tredje part utan ert medgivande. 
     background: gray
     form_id: contactForm
-    hide_labels: true
+    hide_labels: false
     form_fields:
       - input_type: text
         name: name

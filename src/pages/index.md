@@ -56,39 +56,6 @@ sections:
         url: 'https://calendly.com/liteit'
         style: primary
         new_window: true
-  - section_id: service-section
-    title: Låt kameran skapa värdefulla insikter
-    content: >
-      Tjänsten är enkel att använda även om algoritmerna bakom är avancerade. Ny
-      teknik har gjord det möjligt att analysera bilder, räkna och klassificera
-      objekt snabbt.  Video analyseras i realtid och de enda datapunkter som
-      sparas i plattformen är statistik.
-
-
-      #### I Sverige erbjudes vi följande insikter:
-
-
-      *   Antalet besökare, just nu och över tid
-
-
-      *   Fördelning mellan kön
-
-
-      *   Åldersfördelning
-
-
-      #### Internationellt erbjuder vi även
-
-
-      *   Räkna bort personal i butiken
-
-
-      *   Identifiering ansiktsmasker
-    image_alt: service
-    background: gray
-    actions: []
-    type: section_content
-    image: /images/11.jpg
   - type: section_reviews
     section_id: reviews
     title: Vad säger våra kunder?

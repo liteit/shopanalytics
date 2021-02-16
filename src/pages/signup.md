@@ -4,19 +4,19 @@ sections:
   - section_id: orderSection
     title: Beställningsformulär
     content: |
-      ## För samtliga standarderbjudanden gäller
+      ### För samtliga standarderbjudanden gäller
 
       ##### Shop Analytics tjänst tillhandahålls av Anavid Frankrike
 
       ###### Bindingstid
 
-      *   6 månaders bindningstid vid köp av abonemang 
+      *   6 månaders bindningstid vid köp av abonemang
 
       *   Efter 6 månader gäller en 1 månads uppsägningstid
 
       ###### Faktura
 
-      *   Fakturering sker lokalt med Svensk påförd moms (innehar F-skatt) 
+      *   Fakturering sker lokalt med Svensk påförd moms (innehar F-skatt)
 
       *   Fakturering sker månadsvis, direkt efter debiterad månad
     background: gray

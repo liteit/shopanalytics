@@ -83,7 +83,7 @@ sections:
     type: section_content
     image: /images/fabulous-amaranth.png
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Frågor och Svar
     subtitle: lorem-ipsum
     background: gray
     faq_items: []

@@ -150,7 +150,7 @@ sections:
 
 
       *   Identifiering ansiktsmasker
-    image_alt: lorem-ipsum
+    image_alt: service
     background: gray
     actions: []
     type: section_content

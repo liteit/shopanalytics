@@ -72,7 +72,7 @@ sections:
     background: gray
     actions:
       - label: Kontakta Oss
-        url: /
+        url: /conct
         style: link
         has_icon: false
         icon: arrow-left

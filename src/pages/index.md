@@ -21,7 +21,7 @@ sections:
           Vår enklaste och intuitivaste insikt är antalet besök, jämför mellan
           era butiker eller över tid. Shop Analytics identifierar personer som
           går in och sedan ut och hur många som är samtidigt i butiken. 
-        image: /images/friendly-hickory.png
+        image: /images/wonderful-wallaby.png
         image_alt: App preview on a phone and tablet
         actions: []
         title: Hur många besöker butiken just nu eller hur var det i helgen?

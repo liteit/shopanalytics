@@ -164,7 +164,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: Enterprise
-        subtitle: lorem-ipsum
+        subtitle: För större kedjor
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum

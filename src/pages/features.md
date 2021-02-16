@@ -20,7 +20,16 @@ sections:
       *   Åldersfördelning
     image_alt: App preview on a phone and tablet
     background: gray
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
     image: /images/wonderful-wallaby.png
   - type: section_cta
     section_id: call-to-action

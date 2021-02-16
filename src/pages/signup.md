@@ -2,7 +2,7 @@
 title: Beställ
 sections:
   - section_id: orderSection
-    title: Beställ
+    title: Beställningsformulär
     subtitle: Beställ
     content: >-
       ## Lorem ipsum

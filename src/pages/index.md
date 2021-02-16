@@ -175,13 +175,10 @@ sections:
         subtitle: För större kedjor
         price: Offert
         details: |
-          *   Antal besökare
-
-          *   Fördelning mellan kön
-
-          *   Åldersfördelning
-
-          *   Analys mellan olika butiker
+          *  Antal besökare
+          *  Fördelning mellan kön
+          *  Åldersfördelning
+          *  Analys mellan olika butiker
         highlight: false
         actions:
           - label: Beställ

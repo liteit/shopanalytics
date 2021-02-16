@@ -158,17 +158,9 @@ sections:
       - title: Enterprise
         subtitle: För större kedjor
         price: Offert
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: >
+          *   *   *   Analys mellan olika butiker*   Antal besökare*  
+          Fördelning mellan kön*   Åldersfördelning
         highlight: false
         actions: []
         type: pricing_plan

@@ -50,7 +50,7 @@ sections:
         type: form_field
         name: email
       - input_type: text
-        name: lorem-ipsum
+        name: Telefon
         label: Telefon
         options: []
         is_required: false

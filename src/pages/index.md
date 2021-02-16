@@ -57,7 +57,7 @@ sections:
         style: primary
         new_window: true
   - section_id: service-section
-    title: Låt kameran skapa värdefulla insikter
+    title: Återanvänd butikens kamera
     content: >
       Shop Anaytics tjänsten är enkel att använda även om algoritmerna är
       imponerande. Ny teknik har gjord det möjligt att analysera bilder, räkna

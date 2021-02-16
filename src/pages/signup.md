@@ -3,17 +3,22 @@ title: Beställ
 sections:
   - section_id: orderSection
     title: Beställningsformulär
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## För samtliga standarderbjudanden gäller
 
+      ##### Shop Analytics tjänst tillhandahålls av Anavid Frankrike
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ###### Bindingstid
 
+      *   6 månaders bindningstid vid köp av abonemang 
 
-      - Lorem ipsum
+      *   Efter 6 månader gäller en 1 månads uppsägningstid
 
-      - dolor sit amet
+      ###### Faktura
+
+      *   Fakturering sker lokalt med Svensk påförd moms (innehar F-skatt) 
+
+      *   Fakturering sker månadsvis, direkt efter debiterad månad
     background: gray
     form_id: orderForm
     hide_labels: false

@@ -155,9 +155,7 @@ sections:
         price: 1995 kr/mån
         details: |
           *   Antal besökare
-
           *   Fördelning mellan kön
-
           *   Åldersfördelning
 
           *(Analys av två kameror)*

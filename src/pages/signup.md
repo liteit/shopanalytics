@@ -4,8 +4,6 @@ sections:
   - section_id: orderSection
     title: Beställningsformulär
     content: |
-      ### För samtliga standarderbjudanden gäller
-
       ##### Shop Analytics tjänst tillhandahålls av Anavid Frankrike
 
       ###### Bindingstid

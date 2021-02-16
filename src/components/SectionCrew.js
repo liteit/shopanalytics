@@ -32,7 +32,7 @@ export default class SectionReviews extends React.Component {
                         <cite className="review-author">{_.get(review, 'author', null)}</cite>
                       </footer>
                     </div>
-                  </blockqh2uote>
+                  </h2>
                   ))}
                 </div>
               </div>

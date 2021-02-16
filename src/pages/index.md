@@ -225,11 +225,11 @@ sections:
           Om jag aktiverar Shop Anlytics i butiker, bör jag informera  kunderna
           om förändringen!?
         answer: >
-          Ni har ingen skyldighet att informara, men det är ändå rätt etiskt
-          sätt att göra det. Informara om syftet och hur ni använder lösningen
-          för att ge en bättre kundupplevlese och bättre service i butiken. Vi
-          håller på att ta fram ett par dekaler som kan blir relevanta i
-          sammanhanget.
+          Ni har ingen skyldighet att informara, men det är ändå etiskt rätt att
+          göra det. Informara om syftet och hur ni använder lösningen för att ge
+          en bättre kundupplevlese / service i butiken. Vi håller på att ta fram
+          ett par dekaler som kan blir relevanta i sammanhanget, meddela
+          intresse. 
         type: faq_item
       - question: 'Villkor för tjänsten, betalning med mera.'
         answer: >-

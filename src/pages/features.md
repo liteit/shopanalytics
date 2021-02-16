@@ -5,7 +5,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
-    title: 'Vid bildanalys '
+    title: Shop Analytics bildanalys
   - section_id: receo
     content: >
       ## Anslut befintlig kamera

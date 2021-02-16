@@ -16,7 +16,7 @@ sections:
     title: Visualisera butikens dolda insikter
     subtitle: >-
       Använd Shop Analytics för att få svar, ta informerade beslut baserat på
-      fakta istället för på antaganden vilket ger ett bättre resultat
+      fakta istället för på antaganden vilket skapar konkurrensfördelar
     background: gray
     features:
       - type: feature_item

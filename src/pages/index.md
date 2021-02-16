@@ -88,8 +88,7 @@ sections:
     content: >
       Shop Anaytics tjänsten är enkel att använda även om algoritmerna är
       imponerande. Ny teknik har gjord det möjligt att analysera bilder, räkna
-      och klassificera objekt snabbt.  Video analyseras i realtid och de enda
-      datapunkter som sparas i plattformen är statistik.
+      och klassificera objekt snabbt. 
 
 
       #### I Sverige erbjuds följande insikter:
@@ -111,6 +110,10 @@ sections:
 
 
       *   Identifiering ansiktsmasker
+
+
+      Er videoström analyseras i realtid och de enda datapunkter som sparas vår
+      plattform är statistik.
     image_alt: lorem-ipsum
     background: white
     actions:

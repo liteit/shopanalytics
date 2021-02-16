@@ -305,7 +305,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Azimuth theme
     - name: 'twitter:image'
-      value: images/hero.png
+      value: /images/Shopanalytics1200_900.png
       relativeUrl: true
 template: landing
 ---

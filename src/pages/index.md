@@ -288,7 +288,7 @@ sections:
     type: section_contact
 seo:
   type: stackbit_page_meta
-  title: Shopanalytics landing
+  title: Retail intelligence by Shop Analytics powered by Anavid
   description: >
     Shop analytics erbjuder en google analytics fast för fysiska butiker.
     Lösningen baseras på bildanalys där butikens kamera återanvänds.   

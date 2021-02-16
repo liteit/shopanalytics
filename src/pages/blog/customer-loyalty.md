@@ -6,7 +6,7 @@ subtitle: >-
 date: '2021-01-03'
 author: src/data/authors/david.yaml
 excerpt: >-
-  Vad säger kameralagen? Kan man använda sin existerande video till nya
+  Vad säger kameralagen? Får man använda sin existerande video till nya
   användningsområden?
 image: images/3.jpg
 image_alt: A group of people working in a cafe

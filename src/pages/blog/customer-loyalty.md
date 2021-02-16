@@ -1,5 +1,5 @@
 ---
-title: 'Videoanalys skapar nya möjligheter, men vad gäller kring personlig integritet?'
+title: 'Videoanalys skapar nya möjligheter, vad gäller kring personlig integritet?'
 subtitle: >-
   Vad säger kameralagen? Får man använda övervakningsvideon till nya
   användningsområden?

@@ -23,14 +23,7 @@ sections:
           går in och sedan ut och hur många som är samtidigt i butiken. 
         image: /images/friendly-hickory.png
         image_alt: App preview on a phone and tablet
-        actions:
-          - type: action
-            label: Läs mer
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         title: Hur många besöker butiken just nu eller hur var det i helgen?
       - type: feature_item
         title: Vilka är på besök och när brukar de shoppa?

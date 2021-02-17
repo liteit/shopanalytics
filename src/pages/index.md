@@ -32,7 +32,7 @@ sections:
         content: >
           Följ upp faktiska besök mot marknadsföringen, stämmer antaganden kring
           målgruppen? Erhåll insikter kring ålder samt
-          kön och tider där extra personal kan bidra till en bättre kundupplevelse och mer försäljning.
+          kön och tider där extra personal kan bidra till en bättre kundupplevelse och försäljning.
         image: /images/scientific-eggplant.png
         image_alt: App users welcoming a new member
         actions: []

@@ -45,12 +45,12 @@ sections:
 
       >
 
-      > ##### VÄRT ATT NOTERA
+      > ##### BRA ATT KÄNNA TILL
 
       >
 
-      > Shop Analytics tillämpar primärt så kallad bildanalys och lagrar ingen
-      biometrisk data som är förekommande vid ansiktsigenkänning
+      > Shop Analytics tillämpar primärt identifiering av objekt och lagrar
+      ingen biometrisk data som är förekommande vid ansiktsigenkänning
     image_alt: know custoner
     background: white
     actions: []

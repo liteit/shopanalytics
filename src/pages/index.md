@@ -40,13 +40,17 @@ sections:
   - section_id: content-section
     title: Att förstå besöken gör skillnad
     content: >
-      > Ingen personlig data sparas på individnivå, endast anonymiserad
-      aggregerad data
+      > Ingen personlig data sparas på individnivå, endast aggregerad och
+      anonymiserad data
 
       >
 
-      > Shop Analytics tillämpar primärt så kallad bildanalys och lagrar ingen
-      biometrisk data som är förekommande vid ansiktsigenkänning
+      > ##### BRA ATT KÄNNA TILL
+
+      >
+
+      > Shop Analytics tillämpar primärt identifiering av objekt och lagrar
+      ingen biometrisk data som är förekommande vid ansiktsigenkänning
     image_alt: know custoner
     background: white
     actions: []
@@ -81,7 +85,7 @@ sections:
     image_alt: lorem-ipsum
     background: gray
     actions:
-      - label: Mer Info
+      - label: Kom igång med befintlig kamera
         url: /features
         style: secondary
         has_icon: true
@@ -95,7 +99,7 @@ sections:
   - type: section_cta
     section_id: call-to-action
     title: Låt oss visa vad ni får ...
-    subtitle: Vi demar gärna utan förpliktelser och är genuint intresserad av feedback
+    subtitle: Vi demar gärna och diskuterar hur insikterna kan skapa värde för er.
     actions:
       - type: action
         label: Boka Demo
@@ -132,8 +136,8 @@ sections:
           till insikter som hjälper oss utvärdera vad vi gör.
   - section_id: pricing-section
     subtitle: >-
-      Det skall vara enkelt att komma igång, därför har vi ett erbjudande
-      prissatt per butik och börjar med en kamera.
+      Det skall vara enkelt att komma igång, därför har vi abonnemang prissatta
+      per butik och kameror
     background: white
     pricing_plans:
       - title: Basic
@@ -289,16 +293,17 @@ sections:
     type: section_contact
 seo:
   type: stackbit_page_meta
-  title: Retail intelligence by Shop Analytics powered by Anavid
-  description: >
+  title: 'Öka försäljning med en smart butik och digitala insikter '
+  description: |
     Shop analytics erbjuder en google analytics fast för fysiska butiker.
-    Lösningen baseras på bildanalys där butikens kamera återanvänds.   
+    Lösningen baseras på bildanalys där butikens kamera återanvänds. 
+      
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Shop Analytics
+      value: Öka försäljningen i butiken med insikter från Shop Analytics
       keyName: property
     - name: 'og:image'
       value: /images/Shopanalytics1200_900.png
@@ -307,9 +312,24 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Shop Analytics
+      value: Öka försäljningen i butiken med insikter från Shop Analytics
     - name: 'twitter:image'
       value: /images/Shopanalytics1200_900.png
+      relativeUrl: true
+    - name: 'og:description'
+      value: |
+        Shop analytics erbjuder en google analytics fast för fysiska butiker.
+        Lösningen baseras på bildanalys där butikens kamera får superkrafter.  
+
+          
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:description'
+      value: |
+        Shop analytics erbjuder en google analytics fast för fysiska butiker.
+        Lösningen baseras på bildanalys där butikens kamera får superkrafter. 
+          
+      keyName: name
       relativeUrl: true
 template: landing
 ---

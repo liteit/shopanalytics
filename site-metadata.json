@@ -22,7 +22,7 @@
             },
             {
                 "type": "action",
-                "label": "Pris",
+                "label": "Priser",
                 "style": "link",
                 "url": "/#pricing-section"
             },
@@ -39,7 +39,7 @@
                 "style": "link",
                 "has_icon": true,
                 "icon": "arrow-right",
-                "icon_position": "right",
+                "icon_position": "left",
                 "new_window": true,
                 "no_follow": true,
                 "type": "action"
@@ -54,7 +54,7 @@
                 "image": "/images/anavidl.png",
                 "image_alt": "Footer logo",
                 "image_url": "https://www.anavid.co",
-                "content": "proudly presents Shop Analytics\n"
+                "content": "maker of Shop Analytics\n"
             },
             {
                 "type": "footer_nav",
@@ -62,12 +62,12 @@
                 "nav_links": [
                     {
                         "type": "action",
-                        "label": "Om anavid",
+                        "label": "anavid",
                         "style": "link",
                         "url": "anavid.co",
                         "icon": "arrow-right",
-                        "icon_position": "right",
-                        "has_icon": true,
+                        "icon_position": "left",
+                        "has_icon": false,
                         "new_window": true
                     },
                     {
@@ -79,7 +79,7 @@
                     {
                         "type": "action",
                         "label": "Kontakta",
-                        "url": "/contact",
+                        "url": "/#contactForm",
                         "style": "link"
                     }
                 ]
@@ -128,7 +128,7 @@
                         "input_type": "email",
                         "name": "email",
                         "label": "Email",
-                        "default_value": "Enter email address",
+                        "default_value": "Din E-post",
                         "is_required": true
                     }
                 ],
@@ -150,7 +150,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy Anavid France"
+        "content": "&copy anavid France"
     },
     "domain": "https://airvent.one",
     "favicon": "/images/favicon-32x32.png"

@@ -95,7 +95,7 @@ sections:
   - type: section_cta
     section_id: call-to-action
     title: Låt oss visa vad ni får ...
-    subtitle: Vi demar gärna utan förpliktelser och är genuint intresserad av feedback
+    subtitle: Vi demar gärna och diskuterar hur insikterna kan skapa värde för er.
     actions:
       - type: action
         label: Boka Demo

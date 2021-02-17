@@ -320,5 +320,12 @@ seo:
           
       keyName: property
       relativeUrl: true
+    - name: 'twitter:description'
+      value: |
+        Shop analytics erbjuder en google analytics fast för fysiska butiker.
+        Lösningen baseras på bildanalys där butikens kamera får superkrafter. 
+          
+      keyName: name
+      relativeUrl: true
 template: landing
 ---

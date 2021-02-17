@@ -128,7 +128,7 @@
                         "input_type": "email",
                         "name": "email",
                         "label": "Email",
-                        "default_value": "Enter email address",
+                        "default_value": "epost",
                         "is_required": true
                     }
                 ],

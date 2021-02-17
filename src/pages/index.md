@@ -65,7 +65,7 @@ sections:
       *   Identifiering ansiktsmasker 
 
       #### Utanför EU erbjuds även
-    *  Exkludera butikens personal
+        *  Exkludera butikens personal
 
     image_alt: Anslut butikens kamera
     background: gray

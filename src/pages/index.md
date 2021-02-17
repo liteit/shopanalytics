@@ -62,8 +62,8 @@ sections:
       *   Antal besök 
       *   Fördelning mellan kön 
       *   Åldersfördelning
-      *   Identifiering ansiktsmasker ####
-      Utanför EU erbjuds även \*   Exkludera butikens personal
+      *   Identifiering ansiktsmasker 
+      #### Utanför EU erbjuds även \*   Exkludera butikens personal
     image_alt: Anslut butikens kamera
     background: gray
     actions:

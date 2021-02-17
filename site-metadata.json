@@ -22,7 +22,7 @@
             },
             {
                 "type": "action",
-                "label": "Pris",
+                "label": "Priser",
                 "style": "link",
                 "url": "/#pricing-section"
             },

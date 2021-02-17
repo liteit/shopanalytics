@@ -292,7 +292,8 @@ seo:
   title: Uppgradera till en smart butik med nya digitala insikter
   description: >
     Shop analytics erbjuder en google analytics fast för fysiska butiker.
-    Lösningen baseras på bildanalys där butikens kamera återanvänds.   
+    Lösningen baseras på bildanalys där butikens kamera återanvänds. 
+      
   extra:
     - name: 'og:type'
       value: website

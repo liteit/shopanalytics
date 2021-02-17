@@ -136,7 +136,7 @@ sections:
           till insikter som hjälper oss utvärdera vad vi gör.
   - section_id: pricing-section
     subtitle: >-
-      Det skall vara enkelt att komma igång, därför har vi ett erbjudande
+      Det skall vara enkelt att komma igång, därför har vi ett abonemang
       prissatt per butik och börjar med en kamera.
     background: white
     pricing_plans:

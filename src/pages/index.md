@@ -8,9 +8,9 @@ sections:
       Vi erbjuder en modern SaaS lösning, inspirerad av e-handeln för alla
       fysiska butiker. Genom vår innovativa videoanalys blir det enklare att
       följa upp samt bidra till ökad försäljning.
-    image: /images/splendid-cedar.png
-    image_alt: App preview
+    image: /images/scientific-jupiter.png
     actions: []
+    image_alt: Shop Analytics
   - type: section_features
     section_id: features
     title: Visualisera butikens dolda insikter
@@ -23,7 +23,7 @@ sections:
         content: >
           Vår enklaste och mest intuitivaste insikt är antalet besök. Uppdateras
           i realtid, jämför per timme, dag, vecka eller år. 
-        image: /images/wonderful-wallaby.png
+        image: /images/purple-yam.png
         image_alt: App preview on a phone and tablet
         actions: []
         title: Hur många har besökt butiken idag jämfört med i går?
@@ -34,7 +34,7 @@ sections:
           målgruppen?  Med Shop Analyics får ni bättre insikter kring ålder samt
           kön och tider där extra personal kan bidra till en bättre
           kundupplevelse och mer försäljning.
-        image: /images/royal-lime.png
+        image: /images/scientific-eggplant.png
         image_alt: App users welcoming a new member
         actions: []
   - section_id: content-section
@@ -43,11 +43,7 @@ sections:
       > Ingen personlig data sparas på individnivå, endast aggregerad och
       anonymiserad data
 
-      >
-
-      > ##### BRA ATT KÄNNA TILL
-
-      >
+      #### INTEGRITET FÖRST
 
       > Shop Analytics tillämpar primärt identifiering av objekt och lagrar
       ingen biometrisk data som är förekommande vid ansiktsigenkänning
@@ -82,7 +78,7 @@ sections:
 
 
       *   Exkludera butikens personal
-    image_alt: lorem-ipsum
+    image_alt: Anslut butikens kamera
     background: gray
     actions:
       - label: Kom igång med befintlig kamera
@@ -95,7 +91,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
-    image: /images/fabulous-amaranth.png
+    image: /images/splendid-oak.png
   - type: section_cta
     section_id: call-to-action
     title: Låt oss visa vad ni får ...

@@ -31,7 +31,7 @@ sections:
         title: Vilka är på besök och när brukar de shoppa?
         content: >
           Följ upp faktiska besök mot marknadsföringen, stämmer antaganden kring
-          målgruppen?  Med Shop Analyics får ni bättre insikter kring ålder samt
+          målgruppen? Erhåll insikter kring ålder samt
           kön och tider där extra personal kan bidra till en bättre
           kundupplevelse och mer försäljning.
         image: /images/scientific-eggplant.png

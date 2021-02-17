@@ -8,7 +8,7 @@ sections:
       Vi erbjuder en modern SaaS lösning, inspirerad av e-handeln för alla
       fysiska butiker. Genom vår innovativa videoanalys blir det enklare att
       följa upp samt bidra till ökad försäljning.
-    image:
+    image: /images/scientific-jupiter.png
     actions: []
     image_alt: Shop Analytics
   - type: section_features

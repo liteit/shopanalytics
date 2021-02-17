@@ -23,7 +23,7 @@ sections:
         content: >
           Vår enklaste och mest intuitivaste insikt är antalet besök. Uppdateras
           i realtid, jämför per timme, dag, vecka eller år. 
-        image: /images/wonderful-wallaby.png
+        image:
         image_alt: App preview on a phone and tablet
         actions: []
         title: Hur många har besökt butiken idag jämfört med i går?

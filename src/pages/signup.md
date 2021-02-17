@@ -8,13 +8,13 @@ sections:
 
       ###### Bindingstid
 
-      *   6 månaders bindningstid vid köp av abonemang
+      *   6 månaders bindningstid vid tecknande av abonemang
 
       *   Efter 6 månader gäller en 1 månads uppsägningstid
 
       ###### Faktura
 
-      *   Fakturering sker lokalt med Svensk påförd moms (innehar F-skatt)
+      *   Fakturering sker lokalt med påförd moms (innehar F-skatt)
 
       *   Fakturering sker månadsvis, direkt efter debiterad månad
     background: gray

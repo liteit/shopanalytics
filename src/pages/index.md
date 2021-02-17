@@ -43,7 +43,8 @@ sections:
       > Ingen personlig data sparas på individnivå, endast aggregerad och
       anonymiserad data
 
-##### BRA ATT KÄNNA TILL
+
+      > ##### BRA ATT KÄNNA TILL
 
       >
 

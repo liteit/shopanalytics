@@ -44,7 +44,7 @@ sections:
       anonymiserad data
 
 
-      > ##### BRA ATT KÄNNA TILL
+       ##### BRA ATT KÄNNA TILL
 
 
       > Shop Analytics tillämpar primärt identifiering av objekt och lagrar

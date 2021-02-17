@@ -67,7 +67,7 @@
                         "url": "anavid.co",
                         "icon": "arrow-right",
                         "icon_position": "left",
-                        "has_icon": true,
+                        "has_icon": false,
                         "new_window": true
                     },
                     {

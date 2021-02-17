@@ -78,7 +78,7 @@ sections:
 
 
       *   Exkludera butikens personal
-    image_alt: lorem-ipsum
+    image_alt: 
     background: gray
     actions:
       - label: Kom igång med befintlig kamera

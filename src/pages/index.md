@@ -312,5 +312,13 @@ seo:
     - name: 'twitter:image'
       value: /images/Shopanalytics1200_900.png
       relativeUrl: true
+    - name: 'og:description'
+      value: |
+        Shop analytics erbjuder en google analytics fast för fysiska butiker.
+        Lösningen baseras på bildanalys där butikens kamera återanvänds. 
+
+          
+      keyName: property
+      relativeUrl: true
 template: landing
 ---

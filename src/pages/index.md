@@ -23,7 +23,7 @@ sections:
         content: >
           Vår enklaste och mest intuitivaste insikt är antalet besök. Uppdateras
           i realtid, jämför per timme, dag, vecka eller år. 
-        image:
+        image: /images/purple-yam.png
         image_alt: App preview on a phone and tablet
         actions: []
         title: Hur många har besökt butiken idag jämfört med i går?
@@ -34,7 +34,7 @@ sections:
           målgruppen?  Med Shop Analyics får ni bättre insikter kring ålder samt
           kön och tider där extra personal kan bidra till en bättre
           kundupplevelse och mer försäljning.
-        image:
+        image: null
         image_alt: App users welcoming a new member
         actions: []
   - section_id: content-section

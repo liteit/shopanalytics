@@ -317,6 +317,7 @@ seo:
         Shop analytics erbjuder en google analytics fast för fysiska butiker.
         Lösningen baseras på bildanalys där butikens kamera återanvänds. 
 
+
           
       keyName: property
       relativeUrl: true

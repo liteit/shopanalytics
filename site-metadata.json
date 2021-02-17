@@ -62,7 +62,7 @@
                 "nav_links": [
                     {
                         "type": "action",
-                        "label": "Om anavid",
+                        "label": "anavid",
                         "style": "link",
                         "url": "anavid.co",
                         "icon": "arrow-right",

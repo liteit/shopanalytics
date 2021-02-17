@@ -289,7 +289,7 @@ sections:
     type: section_contact
 seo:
   type: stackbit_page_meta
-  title: Retail intelligence by Shop Analytics powered by Anavid
+  title: 'Uppgradera till en smart butik, digitala insikter med Shop Analytics'
   description: >
     Shop analytics erbjuder en google analytics fast för fysiska butiker.
     Lösningen baseras på bildanalys där butikens kamera återanvänds.   

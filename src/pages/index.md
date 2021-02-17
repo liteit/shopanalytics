@@ -42,7 +42,7 @@ sections:
     content: >
       > Ingen personlig data sparas på individnivå, endast aggregerad och
       anonymiserad data
-      
+
       #### INTEGRITET FÖRST
 
       > Shop Analytics tillämpar primärt identifiering av objekt och lagrar
@@ -91,7 +91,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
-    image: 
+    image: /images/splendid-oak.png
   - type: section_cta
     section_id: call-to-action
     title: Låt oss visa vad ni får ...

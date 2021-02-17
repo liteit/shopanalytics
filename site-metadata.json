@@ -108,7 +108,7 @@
                     },
                     {
                         "type": "action",
-                        "label": "GitHub",
+                        "label": "Youtube",
                         "url": "https://www.youtube.com/channel/UC6fbUFVGjpJLo2HBJpPs2AQ",
                         "style": "link",
                         "has_icon": true,

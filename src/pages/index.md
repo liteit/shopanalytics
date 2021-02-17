@@ -81,7 +81,7 @@ sections:
     image_alt: lorem-ipsum
     background: gray
     actions:
-      - label: Mer Info
+      - label: Kom igång med befintlig kamera
         url: /features
         style: secondary
         has_icon: true

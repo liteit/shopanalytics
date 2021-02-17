@@ -299,7 +299,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Shop Analytics digitaliserar besöken
+      value: Öka försäljningen i butiken med insikter från Shop Analytics
       keyName: property
     - name: 'og:image'
       value: /images/Shopanalytics1200_900.png

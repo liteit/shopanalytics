@@ -57,8 +57,8 @@ sections:
       avancerade.  Video från butiken analyseras i realtid och det som sparas i
       plattformen är endast aggregerad statistik.
 
+        #### Vi erbjuder följande insikter: 
 
-      #### Vi erbjuder följande insikter: 
       *   Antal besök 
       *   Fördelning mellan kön 
       *   Åldersfördelning

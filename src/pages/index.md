@@ -40,7 +40,7 @@ sections:
   - section_id: content-section
     title: Att förstå besöken gör skillnad
     content: >
-      Ingen personlig data sparas på individnivå, endast aggregerad och
+      <Ingen personlig data sparas på individnivå, endast aggregerad och
       anonymiserad data
       
       #### BRA ATT KÄNNA TILL

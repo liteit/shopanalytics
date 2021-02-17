@@ -289,7 +289,7 @@ sections:
     type: section_contact
 seo:
   type: stackbit_page_meta
-  title: Uppgradera till en smart butik med nya digitala insikter
+  title: 'Öka försäljning med en smart butik och digitala insikter '
   description: |
     Shop analytics erbjuder en google analytics fast för fysiska butiker.
     Lösningen baseras på bildanalys där butikens kamera återanvänds. 

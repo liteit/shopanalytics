@@ -128,7 +128,7 @@
                         "input_type": "email",
                         "name": "email",
                         "label": "Email",
-                        "default_value": "Ange epost",
+                        "default_value": "Din epost",
                         "is_required": true
                     }
                 ],

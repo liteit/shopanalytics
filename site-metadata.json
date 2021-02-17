@@ -79,7 +79,7 @@
                     {
                         "type": "action",
                         "label": "Kontakta",
-                        "url": "/contact",
+                        "url": "/c",
                         "style": "link"
                     }
                 ]

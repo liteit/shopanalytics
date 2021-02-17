@@ -91,7 +91,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
-    image: /images/fabulous-amaranth.png
+    image: 
   - type: section_cta
     section_id: call-to-action
     title: Låt oss visa vad ni får ...

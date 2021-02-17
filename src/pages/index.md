@@ -57,16 +57,23 @@ sections:
       avancerade.  Video från butiken analyseras i realtid och det som sparas i
       plattformen är endast aggregerad statistik.
 
-        #### Vi erbjuder följande insikter: 
 
-      *   Antal besök 
+      #### Vi erbjuder följande insikter:
+
+
+      *   Antal besök
+
       *   Fördelning mellan kön 
+
       *   Åldersfördelning
-      *   Identifiering ansiktsmasker 
+
+      *   Identifiering ansiktsmasker
+
 
       #### Utanför EU erbjuds även
-        *  Exkludera butikens personal
 
+
+      *   Exkludera butikens personal
     image_alt: Anslut butikens kamera
     background: gray
     actions:

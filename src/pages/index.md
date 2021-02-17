@@ -60,8 +60,7 @@ sections:
 
       #### Vi erbjuder följande insikter: 
       *   Antal besök 
-      *   Fördelning
-      mellan kön \*   Åldersfördelning \*   Identifiering ansiktsmasker ####
+      *   Fördelning mellan kön \*   Åldersfördelning \*   Identifiering ansiktsmasker ####
       Utanför EU erbjuds även \*   Exkludera butikens personal
     image_alt: Anslut butikens kamera
     background: gray

@@ -78,7 +78,7 @@ sections:
 
 
       *   Exkludera butikens personal
-    image_alt: Kamera
+    image_alt: Anslut butikens Kamera
     background: gray
     actions:
       - label: Kom igång med befintlig kamera

@@ -45,7 +45,7 @@ sections:
       
       #### BRA ATT KÄNNA TILL
 
-      Shop Analytics tillämpar primärt identifiering av objekt och lagrar
+      > Shop Analytics tillämpar primärt identifiering av objekt och lagrar
       ingen biometrisk data som är förekommande vid ansiktsigenkänning
     image_alt: know custoner
     background: white

@@ -31,8 +31,8 @@ sections:
         title: Vilka är på besök och när brukar de shoppa?
         content: >
           Följ upp faktiska besök mot marknadsföringen, stämmer antaganden kring
-          målgruppen? Erhåll insikter kring ålder samt
-          kön och tider där extra personal kan bidra till en bättre kundupplevelse och ökad försäljning.
+          målgruppen? Erhåll insikter kring ålder samt kön och tider där extra
+          personal kan bidra till en bättre kundupplevelse och ökad försäljning.
         image: /images/scientific-eggplant.png
         image_alt: App users welcoming a new member
         actions: []
@@ -57,13 +57,10 @@ sections:
       avancerade.  Video från butiken analyseras i realtid och det som sparas i
       plattformen är endast aggregerad statistik.
 
-      #### Vi erbjuder följande insikter:
-      *   Antal besök
-      *   Fördelning mellan kön
-      *   Åldersfördelning
-      *   Identifiering ansiktsmasker
-      #### Utanför EU erbjuds även
-      *   Exkludera butikens personal
+
+      #### Vi erbjuder följande insikter: \*   Antal besök \*   Fördelning
+      mellan kön \*   Åldersfördelning \*   Identifiering ansiktsmasker ####
+      Utanför EU erbjuds även \*   Exkludera butikens personal
     image_alt: Anslut butikens kamera
     background: gray
     actions:

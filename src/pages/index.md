@@ -34,7 +34,7 @@ sections:
           målgruppen?  Med Shop Analyics får ni bättre insikter kring ålder samt
           kön och tider där extra personal kan bidra till en bättre
           kundupplevelse och mer försäljning.
-        image: /images/royal-lime.png
+        image:
         image_alt: App users welcoming a new member
         actions: []
   - section_id: content-section

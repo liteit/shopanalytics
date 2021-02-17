@@ -9,7 +9,6 @@ sections:
       fysiska butiker. Genom vår innovativa videoanalys blir det enklare att
       följa upp samt bidra till ökad försäljning.
     image: /images/splendid-cedar.png
-    image_alt: App preview
     actions: []
   - type: section_features
     section_id: features

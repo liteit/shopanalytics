@@ -308,7 +308,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Shop Analytics
+      value: Öka försäljningen i butiken med insikter från Shop Analytics
     - name: 'twitter:image'
       value: /images/Shopanalytics1200_900.png
       relativeUrl: true

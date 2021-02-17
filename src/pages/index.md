@@ -10,6 +10,7 @@ sections:
       följa upp samt bidra till ökad försäljning.
     image: /images/splendid-cedar.png
     actions: []
+    image_alt: Shop Analytics
   - type: section_features
     section_id: features
     title: Visualisera butikens dolda insikter

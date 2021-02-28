@@ -112,7 +112,7 @@ sections:
           hur våra aktiviteter påverkar besöken i butiken. En sån här effektiv
           lösning kom inte en dag för sent.
       - type: review_item
-        author: Mia Berlin
+        author: Alyssia Benee
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-

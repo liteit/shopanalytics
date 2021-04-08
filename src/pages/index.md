@@ -42,7 +42,9 @@ sections:
       > Ingen personlig data sparas på individnivå, endast aggregerad och
       anonymiserad data
 
-      #### INTEGRITET FÖRST
+
+      #### PERSONLIG INTEGRITET KOMMERT FÖRST
+
 
       > Shop Analytics tillämpar primärt identifiering av objekt och lagrar
       ingen biometrisk data som är förekommande vid ansiktsigenkänning

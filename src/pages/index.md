@@ -297,7 +297,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Öka försäljningen i butiken med insikter från Shop Analytics
+      value: Öka din försäljningen i butik genom Shop Analytics
       keyName: property
     - name: 'og:image'
       value: /images/Shopanalytics1200_900.png

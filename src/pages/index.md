@@ -285,11 +285,6 @@ sections:
         type: form_field
     submit_label: Skicka
     type: section_contact
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    type: section_posts
 seo:
   type: stackbit_page_meta
   title: Öka din försäljning med en smartare butik

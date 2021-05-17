@@ -196,10 +196,6 @@ sections:
         type: pricing_plan
     type: section_pricing
     title: Priser
-  - type: section_posts
-    section_id: recent-posts
-    title: Vi rekommenderar ...
-    background: gray
   - section_id: faq-section
     title: Vanliga frågor och svar
     subtitle: Har du andra frågor är du självklart välkommen att kontaka oss
